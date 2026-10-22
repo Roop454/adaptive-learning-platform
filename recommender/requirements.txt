@@ -1,0 +1,6 @@
+# The analysis in analyze.py uses only the Python standard library, so no
+# install is strictly required.
+#
+# pymongo is optional: install it to read attempts directly from a live
+# MongoDB instead of the bundled sample_data/attempts.json.
+pymongo>=4.6

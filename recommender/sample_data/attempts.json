@@ -1,0 +1,8288 @@
+[
+  {
+    "learner": "learner-1",
+    "topic": "python-basics",
+    "difficulty": 1,
+    "correct": true
+  },
+  {
+    "learner": "learner-1",
+    "topic": "python-basics",
+    "difficulty": 1,
+    "correct": true
+  },
+  {
+    "learner": "learner-1",
+    "topic": "python-basics",
+    "difficulty": 1,
+    "correct": true
+  },
+  {
+    "learner": "learner-1",
+    "topic": "python-basics",
+    "difficulty": 1,
+    "correct": true
+  },
+  {
+    "learner": "learner-1",
+    "topic": "python-basics",
+    "difficulty": 1,
+    "correct": true
+  },
+  {
+    "learner": "learner-1",
+    "topic": "control-flow",
+    "difficulty": 2,
+    "correct": true
+  },
+  {
+    "learner": "learner-1",
+    "topic": "control-flow",
+    "difficulty": 2,
+    "correct": true
+  },
+  {
+    "learner": "learner-1",
+    "topic": "control-flow",
+    "difficulty": 2,
+    "correct": true
+  },
+  {
+    "learner": "learner-1",
+    "topic": "recursion",
+    "difficulty": 4,
+    "correct": false
+  },
+  {
+    "learner": "learner-1",
+    "topic": "recursion",
+    "difficulty": 4,
+    "correct": true
+  },
+  {
+    "learner": "learner-1",
+    "topic": "recursion",
+    "difficulty": 4,
+    "correct": true
+  },
+  {
+    "learner": "learner-1",
+    "topic": "recursion",
+    "difficulty": 4,
+    "correct": false
+  },
+  {
+    "learner": "learner-1",
+    "topic": "recursion",
+    "difficulty": 4,
+    "correct": false
+  },
+  {
+    "learner": "learner-1",
+    "topic": "sorting",
+    "difficulty": 3,
+    "correct": false
+  },
+  {
+    "learner": "learner-1",
+    "topic": "sorting",
+    "difficulty": 3,
+    "correct": true
+  },
+  {
+    "learner": "learner-1",
+    "topic": "sql-basics",
+    "difficulty": 1,
+    "correct": true
+  },
+  {
+    "learner": "learner-1",
+    "topic": "sql-basics",
+    "difficulty": 1,
+    "correct": true
+  },
+  {
+    "learner": "learner-1",
+    "topic": "sql-basics",
+    "difficulty": 1,
+    "correct": true
+  },
+  {
+    "learner": "learner-1",
+    "topic": "sql-basics",
+    "difficulty": 1,
+    "correct": true
+  },
+  {
+    "learner": "learner-1",
+    "topic": "aggregation",
+    "difficulty": 3,
+    "correct": true
+  },
+  {
+    "learner": "learner-1",
+    "topic": "aggregation",
+    "difficulty": 3,
+    "correct": true
+  },
+  {
+    "learner": "learner-1",
+    "topic": "aggregation",
+    "difficulty": 3,
+    "correct": false
+  },
+  {
+    "learner": "learner-1",
+    "topic": "aggregation",
+    "difficulty": 3,
+    "correct": true
+  },
+  {
+    "learner": "learner-1",
+    "topic": "html-css",
+    "difficulty": 1,
+    "correct": true
+  },
+  {
+    "learner": "learner-1",
+    "topic": "html-css",
+    "difficulty": 1,
+    "correct": true
+  },
+  {
+    "learner": "learner-1",
+    "topic": "html-css",
+    "difficulty": 1,
+    "correct": true
+  },
+  {
+    "learner": "learner-1",
+    "topic": "html-css",
+    "difficulty": 1,
+    "correct": true
+  },
+  {
+    "learner": "learner-1",
+    "topic": "html-css",
+    "difficulty": 1,
+    "correct": true
+  },
+  {
+    "learner": "learner-1",
+    "topic": "react-state",
+    "difficulty": 3,
+    "correct": true
+  },
+  {
+    "learner": "learner-1",
+    "topic": "react-state",
+    "difficulty": 3,
+    "correct": false
+  },
+  {
+    "learner": "learner-1",
+    "topic": "react-state",
+    "difficulty": 3,
+    "correct": true
+  },
+  {
+    "learner": "learner-1",
+    "topic": "react-state",
+    "difficulty": 3,
+    "correct": false
+  },
+  {
+    "learner": "learner-1",
+    "topic": "react-state",
+    "difficulty": 3,
+    "correct": false
+  },
+  {
+    "learner": "learner-1",
+    "topic": "apis",
+    "difficulty": 4,
+    "correct": false
+  },
+  {
+    "learner": "learner-1",
+    "topic": "apis",
+    "difficulty": 4,
+    "correct": false
+  },
+  {
+    "learner": "learner-1",
+    "topic": "regression",
+    "difficulty": 4,
+    "correct": false
+  },
+  {
+    "learner": "learner-1",
+    "topic": "regression",
+    "difficulty": 4,
+    "correct": true
+  },
+  {
+    "learner": "learner-1",
+    "topic": "classification",
+    "difficulty": 4,
+    "correct": true
+  },
+  {
+    "learner": "learner-1",
+    "topic": "classification",
+    "difficulty": 4,
+    "correct": false
+  },
+  {
+    "learner": "learner-1",
+    "topic": "classification",
+    "difficulty": 4,
+    "correct": true
+  },
+  {
+    "learner": "learner-1",
+    "topic": "classification",
+    "difficulty": 4,
+    "correct": false
+  },
+  {
+    "learner": "learner-2",
+    "topic": "python-basics",
+    "difficulty": 1,
+    "correct": true
+  },
+  {
+    "learner": "learner-2",
+    "topic": "python-basics",
+    "difficulty": 1,
+    "correct": true
+  },
+  {
+    "learner": "learner-2",
+    "topic": "python-basics",
+    "difficulty": 1,
+    "correct": true
+  },
+  {
+    "learner": "learner-2",
+    "topic": "python-basics",
+    "difficulty": 1,
+    "correct": true
+  },
+  {
+    "learner": "learner-2",
+    "topic": "control-flow",
+    "difficulty": 2,
+    "correct": true
+  },
+  {
+    "learner": "learner-2",
+    "topic": "control-flow",
+    "difficulty": 2,
+    "correct": true
+  },
+  {
+    "learner": "learner-2",
+    "topic": "control-flow",
+    "difficulty": 2,
+    "correct": true
+  },
+  {
+    "learner": "learner-2",
+    "topic": "control-flow",
+    "difficulty": 2,
+    "correct": true
+  },
+  {
+    "learner": "learner-2",
+    "topic": "control-flow",
+    "difficulty": 2,
+    "correct": true
+  },
+  {
+    "learner": "learner-2",
+    "topic": "functions",
+    "difficulty": 3,
+    "correct": true
+  },
+  {
+    "learner": "learner-2",
+    "topic": "functions",
+    "difficulty": 3,
+    "correct": false
+  },
+  {
+    "learner": "learner-2",
+    "topic": "functions",
+    "difficulty": 3,
+    "correct": true
+  },
+  {
+    "learner": "learner-2",
+    "topic": "functions",
+    "difficulty": 3,
+    "correct": true
+  },
+  {
+    "learner": "learner-2",
+    "topic": "functions",
+    "difficulty": 3,
+    "correct": false
+  },
+  {
+    "learner": "learner-2",
+    "topic": "recursion",
+    "difficulty": 4,
+    "correct": true
+  },
+  {
+    "learner": "learner-2",
+    "topic": "recursion",
+    "difficulty": 4,
+    "correct": false
+  },
+  {
+    "learner": "learner-2",
+    "topic": "recursion",
+    "difficulty": 4,
+    "correct": false
+  },
+  {
+    "learner": "learner-2",
+    "topic": "recursion",
+    "difficulty": 4,
+    "correct": false
+  },
+  {
+    "learner": "learner-2",
+    "topic": "sorting",
+    "difficulty": 3,
+    "correct": true
+  },
+  {
+    "learner": "learner-2",
+    "topic": "sorting",
+    "difficulty": 3,
+    "correct": false
+  },
+  {
+    "learner": "learner-2",
+    "topic": "aggregation",
+    "difficulty": 3,
+    "correct": true
+  },
+  {
+    "learner": "learner-2",
+    "topic": "aggregation",
+    "difficulty": 3,
+    "correct": true
+  },
+  {
+    "learner": "learner-2",
+    "topic": "aggregation",
+    "difficulty": 3,
+    "correct": true
+  },
+  {
+    "learner": "learner-2",
+    "topic": "html-css",
+    "difficulty": 1,
+    "correct": true
+  },
+  {
+    "learner": "learner-2",
+    "topic": "html-css",
+    "difficulty": 1,
+    "correct": true
+  },
+  {
+    "learner": "learner-2",
+    "topic": "apis",
+    "difficulty": 4,
+    "correct": true
+  },
+  {
+    "learner": "learner-2",
+    "topic": "apis",
+    "difficulty": 4,
+    "correct": true
+  },
+  {
+    "learner": "learner-2",
+    "topic": "apis",
+    "difficulty": 4,
+    "correct": true
+  },
+  {
+    "learner": "learner-2",
+    "topic": "apis",
+    "difficulty": 4,
+    "correct": true
+  },
+  {
+    "learner": "learner-2",
+    "topic": "ml-basics",
+    "difficulty": 2,
+    "correct": true
+  },
+  {
+    "learner": "learner-2",
+    "topic": "ml-basics",
+    "difficulty": 2,
+    "correct": true
+  },
+  {
+    "learner": "learner-2",
+    "topic": "ml-basics",
+    "difficulty": 2,
+    "correct": true
+  },
+  {
+    "learner": "learner-2",
+    "topic": "ml-basics",
+    "difficulty": 2,
+    "correct": true
+  },
+  {
+    "learner": "learner-2",
+    "topic": "ml-basics",
+    "difficulty": 2,
+    "correct": true
+  },
+  {
+    "learner": "learner-2",
+    "topic": "regression",
+    "difficulty": 4,
+    "correct": true
+  },
+  {
+    "learner": "learner-2",
+    "topic": "regression",
+    "difficulty": 4,
+    "correct": false
+  },
+  {
+    "learner": "learner-2",
+    "topic": "regression",
+    "difficulty": 4,
+    "correct": false
+  },
+  {
+    "learner": "learner-2",
+    "topic": "regression",
+    "difficulty": 4,
+    "correct": false
+  },
+  {
+    "learner": "learner-2",
+    "topic": "classification",
+    "difficulty": 4,
+    "correct": true
+  },
+  {
+    "learner": "learner-2",
+    "topic": "classification",
+    "difficulty": 4,
+    "correct": true
+  },
+  {
+    "learner": "learner-2",
+    "topic": "classification",
+    "difficulty": 4,
+    "correct": true
+  },
+  {
+    "learner": "learner-2",
+    "topic": "classification",
+    "difficulty": 4,
+    "correct": false
+  },
+  {
+    "learner": "learner-3",
+    "topic": "arrays",
+    "difficulty": 2,
+    "correct": true
+  },
+  {
+    "learner": "learner-3",
+    "topic": "arrays",
+    "difficulty": 2,
+    "correct": true
+  },
+  {
+    "learner": "learner-3",
+    "topic": "recursion",
+    "difficulty": 4,
+    "correct": true
+  },
+  {
+    "learner": "learner-3",
+    "topic": "recursion",
+    "difficulty": 4,
+    "correct": true
+  },
+  {
+    "learner": "learner-3",
+    "topic": "recursion",
+    "difficulty": 4,
+    "correct": false
+  },
+  {
+    "learner": "learner-3",
+    "topic": "recursion",
+    "difficulty": 4,
+    "correct": false
+  },
+  {
+    "learner": "learner-3",
+    "topic": "recursion",
+    "difficulty": 4,
+    "correct": false
+  },
+  {
+    "learner": "learner-3",
+    "topic": "sql-basics",
+    "difficulty": 1,
+    "correct": true
+  },
+  {
+    "learner": "learner-3",
+    "topic": "sql-basics",
+    "difficulty": 1,
+    "correct": true
+  },
+  {
+    "learner": "learner-3",
+    "topic": "sql-basics",
+    "difficulty": 1,
+    "correct": true
+  },
+  {
+    "learner": "learner-3",
+    "topic": "sql-basics",
+    "difficulty": 1,
+    "correct": true
+  },
+  {
+    "learner": "learner-3",
+    "topic": "sql-basics",
+    "difficulty": 1,
+    "correct": true
+  },
+  {
+    "learner": "learner-3",
+    "topic": "aggregation",
+    "difficulty": 3,
+    "correct": true
+  },
+  {
+    "learner": "learner-3",
+    "topic": "aggregation",
+    "difficulty": 3,
+    "correct": true
+  },
+  {
+    "learner": "learner-3",
+    "topic": "aggregation",
+    "difficulty": 3,
+    "correct": false
+  },
+  {
+    "learner": "learner-3",
+    "topic": "html-css",
+    "difficulty": 1,
+    "correct": true
+  },
+  {
+    "learner": "learner-3",
+    "topic": "html-css",
+    "difficulty": 1,
+    "correct": true
+  },
+  {
+    "learner": "learner-3",
+    "topic": "html-css",
+    "difficulty": 1,
+    "correct": true
+  },
+  {
+    "learner": "learner-3",
+    "topic": "react-basics",
+    "difficulty": 2,
+    "correct": true
+  },
+  {
+    "learner": "learner-3",
+    "topic": "react-basics",
+    "difficulty": 2,
+    "correct": true
+  },
+  {
+    "learner": "learner-3",
+    "topic": "react-basics",
+    "difficulty": 2,
+    "correct": false
+  },
+  {
+    "learner": "learner-3",
+    "topic": "apis",
+    "difficulty": 4,
+    "correct": true
+  },
+  {
+    "learner": "learner-3",
+    "topic": "apis",
+    "difficulty": 4,
+    "correct": true
+  },
+  {
+    "learner": "learner-3",
+    "topic": "apis",
+    "difficulty": 4,
+    "correct": false
+  },
+  {
+    "learner": "learner-3",
+    "topic": "apis",
+    "difficulty": 4,
+    "correct": true
+  },
+  {
+    "learner": "learner-3",
+    "topic": "apis",
+    "difficulty": 4,
+    "correct": true
+  },
+  {
+    "learner": "learner-3",
+    "topic": "regression",
+    "difficulty": 4,
+    "correct": true
+  },
+  {
+    "learner": "learner-3",
+    "topic": "regression",
+    "difficulty": 4,
+    "correct": true
+  },
+  {
+    "learner": "learner-3",
+    "topic": "regression",
+    "difficulty": 4,
+    "correct": true
+  },
+  {
+    "learner": "learner-3",
+    "topic": "regression",
+    "difficulty": 4,
+    "correct": true
+  },
+  {
+    "learner": "learner-3",
+    "topic": "regression",
+    "difficulty": 4,
+    "correct": true
+  },
+  {
+    "learner": "learner-3",
+    "topic": "classification",
+    "difficulty": 4,
+    "correct": false
+  },
+  {
+    "learner": "learner-3",
+    "topic": "classification",
+    "difficulty": 4,
+    "correct": false
+  },
+  {
+    "learner": "learner-3",
+    "topic": "classification",
+    "difficulty": 4,
+    "correct": true
+  },
+  {
+    "learner": "learner-3",
+    "topic": "classification",
+    "difficulty": 4,
+    "correct": false
+  },
+  {
+    "learner": "learner-4",
+    "topic": "python-basics",
+    "difficulty": 1,
+    "correct": false
+  },
+  {
+    "learner": "learner-4",
+    "topic": "python-basics",
+    "difficulty": 1,
+    "correct": true
+  },
+  {
+    "learner": "learner-4",
+    "topic": "python-basics",
+    "difficulty": 1,
+    "correct": true
+  },
+  {
+    "learner": "learner-4",
+    "topic": "control-flow",
+    "difficulty": 2,
+    "correct": true
+  },
+  {
+    "learner": "learner-4",
+    "topic": "control-flow",
+    "difficulty": 2,
+    "correct": true
+  },
+  {
+    "learner": "learner-4",
+    "topic": "control-flow",
+    "difficulty": 2,
+    "correct": true
+  },
+  {
+    "learner": "learner-4",
+    "topic": "functions",
+    "difficulty": 3,
+    "correct": true
+  },
+  {
+    "learner": "learner-4",
+    "topic": "functions",
+    "difficulty": 3,
+    "correct": true
+  },
+  {
+    "learner": "learner-4",
+    "topic": "functions",
+    "difficulty": 3,
+    "correct": true
+  },
+  {
+    "learner": "learner-4",
+    "topic": "recursion",
+    "difficulty": 4,
+    "correct": false
+  },
+  {
+    "learner": "learner-4",
+    "topic": "recursion",
+    "difficulty": 4,
+    "correct": true
+  },
+  {
+    "learner": "learner-4",
+    "topic": "sorting",
+    "difficulty": 3,
+    "correct": true
+  },
+  {
+    "learner": "learner-4",
+    "topic": "sorting",
+    "difficulty": 3,
+    "correct": true
+  },
+  {
+    "learner": "learner-4",
+    "topic": "sorting",
+    "difficulty": 3,
+    "correct": true
+  },
+  {
+    "learner": "learner-4",
+    "topic": "sorting",
+    "difficulty": 3,
+    "correct": true
+  },
+  {
+    "learner": "learner-4",
+    "topic": "joins",
+    "difficulty": 3,
+    "correct": true
+  },
+  {
+    "learner": "learner-4",
+    "topic": "joins",
+    "difficulty": 3,
+    "correct": true
+  },
+  {
+    "learner": "learner-4",
+    "topic": "joins",
+    "difficulty": 3,
+    "correct": true
+  },
+  {
+    "learner": "learner-4",
+    "topic": "joins",
+    "difficulty": 3,
+    "correct": true
+  },
+  {
+    "learner": "learner-4",
+    "topic": "aggregation",
+    "difficulty": 3,
+    "correct": true
+  },
+  {
+    "learner": "learner-4",
+    "topic": "aggregation",
+    "difficulty": 3,
+    "correct": true
+  },
+  {
+    "learner": "learner-4",
+    "topic": "aggregation",
+    "difficulty": 3,
+    "correct": true
+  },
+  {
+    "learner": "learner-4",
+    "topic": "aggregation",
+    "difficulty": 3,
+    "correct": true
+  },
+  {
+    "learner": "learner-4",
+    "topic": "react-basics",
+    "difficulty": 2,
+    "correct": true
+  },
+  {
+    "learner": "learner-4",
+    "topic": "react-basics",
+    "difficulty": 2,
+    "correct": true
+  },
+  {
+    "learner": "learner-4",
+    "topic": "react-basics",
+    "difficulty": 2,
+    "correct": true
+  },
+  {
+    "learner": "learner-4",
+    "topic": "react-basics",
+    "difficulty": 2,
+    "correct": true
+  },
+  {
+    "learner": "learner-4",
+    "topic": "apis",
+    "difficulty": 4,
+    "correct": true
+  },
+  {
+    "learner": "learner-4",
+    "topic": "apis",
+    "difficulty": 4,
+    "correct": true
+  },
+  {
+    "learner": "learner-4",
+    "topic": "apis",
+    "difficulty": 4,
+    "correct": true
+  },
+  {
+    "learner": "learner-4",
+    "topic": "classification",
+    "difficulty": 4,
+    "correct": true
+  },
+  {
+    "learner": "learner-4",
+    "topic": "classification",
+    "difficulty": 4,
+    "correct": false
+  },
+  {
+    "learner": "learner-4",
+    "topic": "classification",
+    "difficulty": 4,
+    "correct": true
+  },
+  {
+    "learner": "learner-4",
+    "topic": "classification",
+    "difficulty": 4,
+    "correct": true
+  },
+  {
+    "learner": "learner-5",
+    "topic": "control-flow",
+    "difficulty": 2,
+    "correct": true
+  },
+  {
+    "learner": "learner-5",
+    "topic": "control-flow",
+    "difficulty": 2,
+    "correct": true
+  },
+  {
+    "learner": "learner-5",
+    "topic": "functions",
+    "difficulty": 3,
+    "correct": true
+  },
+  {
+    "learner": "learner-5",
+    "topic": "functions",
+    "difficulty": 3,
+    "correct": true
+  },
+  {
+    "learner": "learner-5",
+    "topic": "arrays",
+    "difficulty": 2,
+    "correct": true
+  },
+  {
+    "learner": "learner-5",
+    "topic": "arrays",
+    "difficulty": 2,
+    "correct": true
+  },
+  {
+    "learner": "learner-5",
+    "topic": "sorting",
+    "difficulty": 3,
+    "correct": true
+  },
+  {
+    "learner": "learner-5",
+    "topic": "sorting",
+    "difficulty": 3,
+    "correct": true
+  },
+  {
+    "learner": "learner-5",
+    "topic": "sorting",
+    "difficulty": 3,
+    "correct": true
+  },
+  {
+    "learner": "learner-5",
+    "topic": "sorting",
+    "difficulty": 3,
+    "correct": true
+  },
+  {
+    "learner": "learner-5",
+    "topic": "joins",
+    "difficulty": 3,
+    "correct": true
+  },
+  {
+    "learner": "learner-5",
+    "topic": "joins",
+    "difficulty": 3,
+    "correct": true
+  },
+  {
+    "learner": "learner-5",
+    "topic": "joins",
+    "difficulty": 3,
+    "correct": true
+  },
+  {
+    "learner": "learner-5",
+    "topic": "aggregation",
+    "difficulty": 3,
+    "correct": false
+  },
+  {
+    "learner": "learner-5",
+    "topic": "aggregation",
+    "difficulty": 3,
+    "correct": true
+  },
+  {
+    "learner": "learner-5",
+    "topic": "aggregation",
+    "difficulty": 3,
+    "correct": true
+  },
+  {
+    "learner": "learner-5",
+    "topic": "aggregation",
+    "difficulty": 3,
+    "correct": true
+  },
+  {
+    "learner": "learner-5",
+    "topic": "aggregation",
+    "difficulty": 3,
+    "correct": true
+  },
+  {
+    "learner": "learner-5",
+    "topic": "html-css",
+    "difficulty": 1,
+    "correct": true
+  },
+  {
+    "learner": "learner-5",
+    "topic": "html-css",
+    "difficulty": 1,
+    "correct": true
+  },
+  {
+    "learner": "learner-5",
+    "topic": "html-css",
+    "difficulty": 1,
+    "correct": true
+  },
+  {
+    "learner": "learner-5",
+    "topic": "html-css",
+    "difficulty": 1,
+    "correct": true
+  },
+  {
+    "learner": "learner-5",
+    "topic": "react-state",
+    "difficulty": 3,
+    "correct": true
+  },
+  {
+    "learner": "learner-5",
+    "topic": "react-state",
+    "difficulty": 3,
+    "correct": true
+  },
+  {
+    "learner": "learner-5",
+    "topic": "react-state",
+    "difficulty": 3,
+    "correct": true
+  },
+  {
+    "learner": "learner-5",
+    "topic": "react-state",
+    "difficulty": 3,
+    "correct": true
+  },
+  {
+    "learner": "learner-5",
+    "topic": "apis",
+    "difficulty": 4,
+    "correct": true
+  },
+  {
+    "learner": "learner-5",
+    "topic": "apis",
+    "difficulty": 4,
+    "correct": false
+  },
+  {
+    "learner": "learner-5",
+    "topic": "apis",
+    "difficulty": 4,
+    "correct": false
+  },
+  {
+    "learner": "learner-5",
+    "topic": "ml-basics",
+    "difficulty": 2,
+    "correct": true
+  },
+  {
+    "learner": "learner-5",
+    "topic": "ml-basics",
+    "difficulty": 2,
+    "correct": true
+  },
+  {
+    "learner": "learner-5",
+    "topic": "ml-basics",
+    "difficulty": 2,
+    "correct": true
+  },
+  {
+    "learner": "learner-5",
+    "topic": "ml-basics",
+    "difficulty": 2,
+    "correct": true
+  },
+  {
+    "learner": "learner-5",
+    "topic": "ml-basics",
+    "difficulty": 2,
+    "correct": true
+  },
+  {
+    "learner": "learner-5",
+    "topic": "regression",
+    "difficulty": 4,
+    "correct": true
+  },
+  {
+    "learner": "learner-5",
+    "topic": "regression",
+    "difficulty": 4,
+    "correct": false
+  },
+  {
+    "learner": "learner-5",
+    "topic": "regression",
+    "difficulty": 4,
+    "correct": true
+  },
+  {
+    "learner": "learner-5",
+    "topic": "regression",
+    "difficulty": 4,
+    "correct": true
+  },
+  {
+    "learner": "learner-5",
+    "topic": "classification",
+    "difficulty": 4,
+    "correct": true
+  },
+  {
+    "learner": "learner-5",
+    "topic": "classification",
+    "difficulty": 4,
+    "correct": false
+  },
+  {
+    "learner": "learner-5",
+    "topic": "classification",
+    "difficulty": 4,
+    "correct": true
+  },
+  {
+    "learner": "learner-5",
+    "topic": "classification",
+    "difficulty": 4,
+    "correct": false
+  },
+  {
+    "learner": "learner-6",
+    "topic": "python-basics",
+    "difficulty": 1,
+    "correct": true
+  },
+  {
+    "learner": "learner-6",
+    "topic": "python-basics",
+    "difficulty": 1,
+    "correct": true
+  },
+  {
+    "learner": "learner-6",
+    "topic": "functions",
+    "difficulty": 3,
+    "correct": false
+  },
+  {
+    "learner": "learner-6",
+    "topic": "functions",
+    "difficulty": 3,
+    "correct": true
+  },
+  {
+    "learner": "learner-6",
+    "topic": "recursion",
+    "difficulty": 4,
+    "correct": true
+  },
+  {
+    "learner": "learner-6",
+    "topic": "recursion",
+    "difficulty": 4,
+    "correct": false
+  },
+  {
+    "learner": "learner-6",
+    "topic": "recursion",
+    "difficulty": 4,
+    "correct": true
+  },
+  {
+    "learner": "learner-6",
+    "topic": "recursion",
+    "difficulty": 4,
+    "correct": false
+  },
+  {
+    "learner": "learner-6",
+    "topic": "sorting",
+    "difficulty": 3,
+    "correct": false
+  },
+  {
+    "learner": "learner-6",
+    "topic": "sorting",
+    "difficulty": 3,
+    "correct": true
+  },
+  {
+    "learner": "learner-6",
+    "topic": "sorting",
+    "difficulty": 3,
+    "correct": true
+  },
+  {
+    "learner": "learner-6",
+    "topic": "joins",
+    "difficulty": 3,
+    "correct": true
+  },
+  {
+    "learner": "learner-6",
+    "topic": "joins",
+    "difficulty": 3,
+    "correct": true
+  },
+  {
+    "learner": "learner-6",
+    "topic": "joins",
+    "difficulty": 3,
+    "correct": true
+  },
+  {
+    "learner": "learner-6",
+    "topic": "joins",
+    "difficulty": 3,
+    "correct": true
+  },
+  {
+    "learner": "learner-6",
+    "topic": "html-css",
+    "difficulty": 1,
+    "correct": true
+  },
+  {
+    "learner": "learner-6",
+    "topic": "html-css",
+    "difficulty": 1,
+    "correct": true
+  },
+  {
+    "learner": "learner-6",
+    "topic": "html-css",
+    "difficulty": 1,
+    "correct": false
+  },
+  {
+    "learner": "learner-6",
+    "topic": "html-css",
+    "difficulty": 1,
+    "correct": true
+  },
+  {
+    "learner": "learner-6",
+    "topic": "react-basics",
+    "difficulty": 2,
+    "correct": true
+  },
+  {
+    "learner": "learner-6",
+    "topic": "react-basics",
+    "difficulty": 2,
+    "correct": true
+  },
+  {
+    "learner": "learner-6",
+    "topic": "react-basics",
+    "difficulty": 2,
+    "correct": true
+  },
+  {
+    "learner": "learner-6",
+    "topic": "react-basics",
+    "difficulty": 2,
+    "correct": true
+  },
+  {
+    "learner": "learner-6",
+    "topic": "react-basics",
+    "difficulty": 2,
+    "correct": true
+  },
+  {
+    "learner": "learner-6",
+    "topic": "react-state",
+    "difficulty": 3,
+    "correct": true
+  },
+  {
+    "learner": "learner-6",
+    "topic": "react-state",
+    "difficulty": 3,
+    "correct": true
+  },
+  {
+    "learner": "learner-6",
+    "topic": "ml-basics",
+    "difficulty": 2,
+    "correct": true
+  },
+  {
+    "learner": "learner-6",
+    "topic": "ml-basics",
+    "difficulty": 2,
+    "correct": true
+  },
+  {
+    "learner": "learner-6",
+    "topic": "classification",
+    "difficulty": 4,
+    "correct": true
+  },
+  {
+    "learner": "learner-6",
+    "topic": "classification",
+    "difficulty": 4,
+    "correct": false
+  },
+  {
+    "learner": "learner-6",
+    "topic": "classification",
+    "difficulty": 4,
+    "correct": true
+  },
+  {
+    "learner": "learner-7",
+    "topic": "python-basics",
+    "difficulty": 1,
+    "correct": true
+  },
+  {
+    "learner": "learner-7",
+    "topic": "python-basics",
+    "difficulty": 1,
+    "correct": true
+  },
+  {
+    "learner": "learner-7",
+    "topic": "functions",
+    "difficulty": 3,
+    "correct": true
+  },
+  {
+    "learner": "learner-7",
+    "topic": "functions",
+    "difficulty": 3,
+    "correct": true
+  },
+  {
+    "learner": "learner-7",
+    "topic": "functions",
+    "difficulty": 3,
+    "correct": true
+  },
+  {
+    "learner": "learner-7",
+    "topic": "functions",
+    "difficulty": 3,
+    "correct": true
+  },
+  {
+    "learner": "learner-7",
+    "topic": "arrays",
+    "difficulty": 2,
+    "correct": true
+  },
+  {
+    "learner": "learner-7",
+    "topic": "arrays",
+    "difficulty": 2,
+    "correct": true
+  },
+  {
+    "learner": "learner-7",
+    "topic": "sorting",
+    "difficulty": 3,
+    "correct": true
+  },
+  {
+    "learner": "learner-7",
+    "topic": "sorting",
+    "difficulty": 3,
+    "correct": true
+  },
+  {
+    "learner": "learner-7",
+    "topic": "sorting",
+    "difficulty": 3,
+    "correct": true
+  },
+  {
+    "learner": "learner-7",
+    "topic": "sql-basics",
+    "difficulty": 1,
+    "correct": true
+  },
+  {
+    "learner": "learner-7",
+    "topic": "sql-basics",
+    "difficulty": 1,
+    "correct": true
+  },
+  {
+    "learner": "learner-7",
+    "topic": "sql-basics",
+    "difficulty": 1,
+    "correct": true
+  },
+  {
+    "learner": "learner-7",
+    "topic": "sql-basics",
+    "difficulty": 1,
+    "correct": true
+  },
+  {
+    "learner": "learner-7",
+    "topic": "sql-basics",
+    "difficulty": 1,
+    "correct": true
+  },
+  {
+    "learner": "learner-7",
+    "topic": "aggregation",
+    "difficulty": 3,
+    "correct": true
+  },
+  {
+    "learner": "learner-7",
+    "topic": "aggregation",
+    "difficulty": 3,
+    "correct": true
+  },
+  {
+    "learner": "learner-7",
+    "topic": "aggregation",
+    "difficulty": 3,
+    "correct": true
+  },
+  {
+    "learner": "learner-7",
+    "topic": "aggregation",
+    "difficulty": 3,
+    "correct": true
+  },
+  {
+    "learner": "learner-7",
+    "topic": "aggregation",
+    "difficulty": 3,
+    "correct": true
+  },
+  {
+    "learner": "learner-7",
+    "topic": "html-css",
+    "difficulty": 1,
+    "correct": true
+  },
+  {
+    "learner": "learner-7",
+    "topic": "html-css",
+    "difficulty": 1,
+    "correct": true
+  },
+  {
+    "learner": "learner-7",
+    "topic": "html-css",
+    "difficulty": 1,
+    "correct": true
+  },
+  {
+    "learner": "learner-7",
+    "topic": "html-css",
+    "difficulty": 1,
+    "correct": true
+  },
+  {
+    "learner": "learner-7",
+    "topic": "html-css",
+    "difficulty": 1,
+    "correct": true
+  },
+  {
+    "learner": "learner-7",
+    "topic": "react-state",
+    "difficulty": 3,
+    "correct": true
+  },
+  {
+    "learner": "learner-7",
+    "topic": "react-state",
+    "difficulty": 3,
+    "correct": true
+  },
+  {
+    "learner": "learner-7",
+    "topic": "react-state",
+    "difficulty": 3,
+    "correct": true
+  },
+  {
+    "learner": "learner-7",
+    "topic": "ml-basics",
+    "difficulty": 2,
+    "correct": true
+  },
+  {
+    "learner": "learner-7",
+    "topic": "ml-basics",
+    "difficulty": 2,
+    "correct": true
+  },
+  {
+    "learner": "learner-7",
+    "topic": "ml-basics",
+    "difficulty": 2,
+    "correct": true
+  },
+  {
+    "learner": "learner-7",
+    "topic": "ml-basics",
+    "difficulty": 2,
+    "correct": true
+  },
+  {
+    "learner": "learner-7",
+    "topic": "ml-basics",
+    "difficulty": 2,
+    "correct": true
+  },
+  {
+    "learner": "learner-7",
+    "topic": "regression",
+    "difficulty": 4,
+    "correct": false
+  },
+  {
+    "learner": "learner-7",
+    "topic": "regression",
+    "difficulty": 4,
+    "correct": false
+  },
+  {
+    "learner": "learner-7",
+    "topic": "regression",
+    "difficulty": 4,
+    "correct": false
+  },
+  {
+    "learner": "learner-7",
+    "topic": "regression",
+    "difficulty": 4,
+    "correct": true
+  },
+  {
+    "learner": "learner-7",
+    "topic": "regression",
+    "difficulty": 4,
+    "correct": true
+  },
+  {
+    "learner": "learner-8",
+    "topic": "python-basics",
+    "difficulty": 1,
+    "correct": true
+  },
+  {
+    "learner": "learner-8",
+    "topic": "python-basics",
+    "difficulty": 1,
+    "correct": true
+  },
+  {
+    "learner": "learner-8",
+    "topic": "functions",
+    "difficulty": 3,
+    "correct": false
+  },
+  {
+    "learner": "learner-8",
+    "topic": "functions",
+    "difficulty": 3,
+    "correct": false
+  },
+  {
+    "learner": "learner-8",
+    "topic": "functions",
+    "difficulty": 3,
+    "correct": false
+  },
+  {
+    "learner": "learner-8",
+    "topic": "functions",
+    "difficulty": 3,
+    "correct": true
+  },
+  {
+    "learner": "learner-8",
+    "topic": "functions",
+    "difficulty": 3,
+    "correct": true
+  },
+  {
+    "learner": "learner-8",
+    "topic": "arrays",
+    "difficulty": 2,
+    "correct": true
+  },
+  {
+    "learner": "learner-8",
+    "topic": "arrays",
+    "difficulty": 2,
+    "correct": true
+  },
+  {
+    "learner": "learner-8",
+    "topic": "sorting",
+    "difficulty": 3,
+    "correct": true
+  },
+  {
+    "learner": "learner-8",
+    "topic": "sorting",
+    "difficulty": 3,
+    "correct": true
+  },
+  {
+    "learner": "learner-8",
+    "topic": "sorting",
+    "difficulty": 3,
+    "correct": true
+  },
+  {
+    "learner": "learner-8",
+    "topic": "sorting",
+    "difficulty": 3,
+    "correct": true
+  },
+  {
+    "learner": "learner-8",
+    "topic": "sorting",
+    "difficulty": 3,
+    "correct": true
+  },
+  {
+    "learner": "learner-8",
+    "topic": "sql-basics",
+    "difficulty": 1,
+    "correct": true
+  },
+  {
+    "learner": "learner-8",
+    "topic": "sql-basics",
+    "difficulty": 1,
+    "correct": false
+  },
+  {
+    "learner": "learner-8",
+    "topic": "joins",
+    "difficulty": 3,
+    "correct": true
+  },
+  {
+    "learner": "learner-8",
+    "topic": "joins",
+    "difficulty": 3,
+    "correct": true
+  },
+  {
+    "learner": "learner-8",
+    "topic": "joins",
+    "difficulty": 3,
+    "correct": true
+  },
+  {
+    "learner": "learner-8",
+    "topic": "aggregation",
+    "difficulty": 3,
+    "correct": true
+  },
+  {
+    "learner": "learner-8",
+    "topic": "aggregation",
+    "difficulty": 3,
+    "correct": true
+  },
+  {
+    "learner": "learner-8",
+    "topic": "aggregation",
+    "difficulty": 3,
+    "correct": true
+  },
+  {
+    "learner": "learner-8",
+    "topic": "react-basics",
+    "difficulty": 2,
+    "correct": false
+  },
+  {
+    "learner": "learner-8",
+    "topic": "react-basics",
+    "difficulty": 2,
+    "correct": true
+  },
+  {
+    "learner": "learner-8",
+    "topic": "react-basics",
+    "difficulty": 2,
+    "correct": true
+  },
+  {
+    "learner": "learner-8",
+    "topic": "ml-basics",
+    "difficulty": 2,
+    "correct": true
+  },
+  {
+    "learner": "learner-8",
+    "topic": "ml-basics",
+    "difficulty": 2,
+    "correct": true
+  },
+  {
+    "learner": "learner-8",
+    "topic": "ml-basics",
+    "difficulty": 2,
+    "correct": true
+  },
+  {
+    "learner": "learner-8",
+    "topic": "ml-basics",
+    "difficulty": 2,
+    "correct": true
+  },
+  {
+    "learner": "learner-8",
+    "topic": "classification",
+    "difficulty": 4,
+    "correct": true
+  },
+  {
+    "learner": "learner-8",
+    "topic": "classification",
+    "difficulty": 4,
+    "correct": false
+  },
+  {
+    "learner": "learner-8",
+    "topic": "classification",
+    "difficulty": 4,
+    "correct": true
+  },
+  {
+    "learner": "learner-8",
+    "topic": "classification",
+    "difficulty": 4,
+    "correct": true
+  },
+  {
+    "learner": "learner-9",
+    "topic": "python-basics",
+    "difficulty": 1,
+    "correct": true
+  },
+  {
+    "learner": "learner-9",
+    "topic": "python-basics",
+    "difficulty": 1,
+    "correct": true
+  },
+  {
+    "learner": "learner-9",
+    "topic": "python-basics",
+    "difficulty": 1,
+    "correct": true
+  },
+  {
+    "learner": "learner-9",
+    "topic": "python-basics",
+    "difficulty": 1,
+    "correct": true
+  },
+  {
+    "learner": "learner-9",
+    "topic": "python-basics",
+    "difficulty": 1,
+    "correct": true
+  },
+  {
+    "learner": "learner-9",
+    "topic": "control-flow",
+    "difficulty": 2,
+    "correct": true
+  },
+  {
+    "learner": "learner-9",
+    "topic": "control-flow",
+    "difficulty": 2,
+    "correct": true
+  },
+  {
+    "learner": "learner-9",
+    "topic": "control-flow",
+    "difficulty": 2,
+    "correct": false
+  },
+  {
+    "learner": "learner-9",
+    "topic": "control-flow",
+    "difficulty": 2,
+    "correct": true
+  },
+  {
+    "learner": "learner-9",
+    "topic": "control-flow",
+    "difficulty": 2,
+    "correct": true
+  },
+  {
+    "learner": "learner-9",
+    "topic": "functions",
+    "difficulty": 3,
+    "correct": true
+  },
+  {
+    "learner": "learner-9",
+    "topic": "functions",
+    "difficulty": 3,
+    "correct": false
+  },
+  {
+    "learner": "learner-9",
+    "topic": "functions",
+    "difficulty": 3,
+    "correct": true
+  },
+  {
+    "learner": "learner-9",
+    "topic": "functions",
+    "difficulty": 3,
+    "correct": true
+  },
+  {
+    "learner": "learner-9",
+    "topic": "recursion",
+    "difficulty": 4,
+    "correct": true
+  },
+  {
+    "learner": "learner-9",
+    "topic": "recursion",
+    "difficulty": 4,
+    "correct": true
+  },
+  {
+    "learner": "learner-9",
+    "topic": "recursion",
+    "difficulty": 4,
+    "correct": false
+  },
+  {
+    "learner": "learner-9",
+    "topic": "recursion",
+    "difficulty": 4,
+    "correct": true
+  },
+  {
+    "learner": "learner-9",
+    "topic": "recursion",
+    "difficulty": 4,
+    "correct": true
+  },
+  {
+    "learner": "learner-9",
+    "topic": "sorting",
+    "difficulty": 3,
+    "correct": true
+  },
+  {
+    "learner": "learner-9",
+    "topic": "sorting",
+    "difficulty": 3,
+    "correct": true
+  },
+  {
+    "learner": "learner-9",
+    "topic": "sorting",
+    "difficulty": 3,
+    "correct": true
+  },
+  {
+    "learner": "learner-9",
+    "topic": "sql-basics",
+    "difficulty": 1,
+    "correct": true
+  },
+  {
+    "learner": "learner-9",
+    "topic": "sql-basics",
+    "difficulty": 1,
+    "correct": true
+  },
+  {
+    "learner": "learner-9",
+    "topic": "sql-basics",
+    "difficulty": 1,
+    "correct": true
+  },
+  {
+    "learner": "learner-9",
+    "topic": "sql-basics",
+    "difficulty": 1,
+    "correct": true
+  },
+  {
+    "learner": "learner-9",
+    "topic": "sql-basics",
+    "difficulty": 1,
+    "correct": true
+  },
+  {
+    "learner": "learner-9",
+    "topic": "joins",
+    "difficulty": 3,
+    "correct": true
+  },
+  {
+    "learner": "learner-9",
+    "topic": "joins",
+    "difficulty": 3,
+    "correct": true
+  },
+  {
+    "learner": "learner-9",
+    "topic": "joins",
+    "difficulty": 3,
+    "correct": false
+  },
+  {
+    "learner": "learner-9",
+    "topic": "aggregation",
+    "difficulty": 3,
+    "correct": true
+  },
+  {
+    "learner": "learner-9",
+    "topic": "aggregation",
+    "difficulty": 3,
+    "correct": true
+  },
+  {
+    "learner": "learner-9",
+    "topic": "aggregation",
+    "difficulty": 3,
+    "correct": true
+  },
+  {
+    "learner": "learner-9",
+    "topic": "html-css",
+    "difficulty": 1,
+    "correct": true
+  },
+  {
+    "learner": "learner-9",
+    "topic": "html-css",
+    "difficulty": 1,
+    "correct": true
+  },
+  {
+    "learner": "learner-9",
+    "topic": "react-basics",
+    "difficulty": 2,
+    "correct": true
+  },
+  {
+    "learner": "learner-9",
+    "topic": "react-basics",
+    "difficulty": 2,
+    "correct": true
+  },
+  {
+    "learner": "learner-9",
+    "topic": "react-basics",
+    "difficulty": 2,
+    "correct": true
+  },
+  {
+    "learner": "learner-9",
+    "topic": "react-state",
+    "difficulty": 3,
+    "correct": true
+  },
+  {
+    "learner": "learner-9",
+    "topic": "react-state",
+    "difficulty": 3,
+    "correct": true
+  },
+  {
+    "learner": "learner-9",
+    "topic": "react-state",
+    "difficulty": 3,
+    "correct": true
+  },
+  {
+    "learner": "learner-9",
+    "topic": "apis",
+    "difficulty": 4,
+    "correct": true
+  },
+  {
+    "learner": "learner-9",
+    "topic": "apis",
+    "difficulty": 4,
+    "correct": false
+  },
+  {
+    "learner": "learner-9",
+    "topic": "apis",
+    "difficulty": 4,
+    "correct": true
+  },
+  {
+    "learner": "learner-9",
+    "topic": "apis",
+    "difficulty": 4,
+    "correct": true
+  },
+  {
+    "learner": "learner-9",
+    "topic": "apis",
+    "difficulty": 4,
+    "correct": true
+  },
+  {
+    "learner": "learner-9",
+    "topic": "regression",
+    "difficulty": 4,
+    "correct": true
+  },
+  {
+    "learner": "learner-9",
+    "topic": "regression",
+    "difficulty": 4,
+    "correct": true
+  },
+  {
+    "learner": "learner-9",
+    "topic": "regression",
+    "difficulty": 4,
+    "correct": true
+  },
+  {
+    "learner": "learner-9",
+    "topic": "regression",
+    "difficulty": 4,
+    "correct": true
+  },
+  {
+    "learner": "learner-9",
+    "topic": "regression",
+    "difficulty": 4,
+    "correct": true
+  },
+  {
+    "learner": "learner-10",
+    "topic": "control-flow",
+    "difficulty": 2,
+    "correct": true
+  },
+  {
+    "learner": "learner-10",
+    "topic": "control-flow",
+    "difficulty": 2,
+    "correct": true
+  },
+  {
+    "learner": "learner-10",
+    "topic": "functions",
+    "difficulty": 3,
+    "correct": true
+  },
+  {
+    "learner": "learner-10",
+    "topic": "functions",
+    "difficulty": 3,
+    "correct": true
+  },
+  {
+    "learner": "learner-10",
+    "topic": "functions",
+    "difficulty": 3,
+    "correct": true
+  },
+  {
+    "learner": "learner-10",
+    "topic": "recursion",
+    "difficulty": 4,
+    "correct": false
+  },
+  {
+    "learner": "learner-10",
+    "topic": "recursion",
+    "difficulty": 4,
+    "correct": true
+  },
+  {
+    "learner": "learner-10",
+    "topic": "recursion",
+    "difficulty": 4,
+    "correct": true
+  },
+  {
+    "learner": "learner-10",
+    "topic": "recursion",
+    "difficulty": 4,
+    "correct": true
+  },
+  {
+    "learner": "learner-10",
+    "topic": "recursion",
+    "difficulty": 4,
+    "correct": true
+  },
+  {
+    "learner": "learner-10",
+    "topic": "sorting",
+    "difficulty": 3,
+    "correct": true
+  },
+  {
+    "learner": "learner-10",
+    "topic": "sorting",
+    "difficulty": 3,
+    "correct": true
+  },
+  {
+    "learner": "learner-10",
+    "topic": "sorting",
+    "difficulty": 3,
+    "correct": true
+  },
+  {
+    "learner": "learner-10",
+    "topic": "sorting",
+    "difficulty": 3,
+    "correct": true
+  },
+  {
+    "learner": "learner-10",
+    "topic": "sorting",
+    "difficulty": 3,
+    "correct": true
+  },
+  {
+    "learner": "learner-10",
+    "topic": "sql-basics",
+    "difficulty": 1,
+    "correct": true
+  },
+  {
+    "learner": "learner-10",
+    "topic": "sql-basics",
+    "difficulty": 1,
+    "correct": true
+  },
+  {
+    "learner": "learner-10",
+    "topic": "sql-basics",
+    "difficulty": 1,
+    "correct": true
+  },
+  {
+    "learner": "learner-10",
+    "topic": "joins",
+    "difficulty": 3,
+    "correct": true
+  },
+  {
+    "learner": "learner-10",
+    "topic": "joins",
+    "difficulty": 3,
+    "correct": false
+  },
+  {
+    "learner": "learner-10",
+    "topic": "joins",
+    "difficulty": 3,
+    "correct": true
+  },
+  {
+    "learner": "learner-10",
+    "topic": "joins",
+    "difficulty": 3,
+    "correct": false
+  },
+  {
+    "learner": "learner-10",
+    "topic": "joins",
+    "difficulty": 3,
+    "correct": true
+  },
+  {
+    "learner": "learner-10",
+    "topic": "react-state",
+    "difficulty": 3,
+    "correct": true
+  },
+  {
+    "learner": "learner-10",
+    "topic": "react-state",
+    "difficulty": 3,
+    "correct": true
+  },
+  {
+    "learner": "learner-10",
+    "topic": "react-state",
+    "difficulty": 3,
+    "correct": true
+  },
+  {
+    "learner": "learner-10",
+    "topic": "react-state",
+    "difficulty": 3,
+    "correct": true
+  },
+  {
+    "learner": "learner-10",
+    "topic": "apis",
+    "difficulty": 4,
+    "correct": true
+  },
+  {
+    "learner": "learner-10",
+    "topic": "apis",
+    "difficulty": 4,
+    "correct": true
+  },
+  {
+    "learner": "learner-10",
+    "topic": "apis",
+    "difficulty": 4,
+    "correct": true
+  },
+  {
+    "learner": "learner-10",
+    "topic": "apis",
+    "difficulty": 4,
+    "correct": false
+  },
+  {
+    "learner": "learner-10",
+    "topic": "ml-basics",
+    "difficulty": 2,
+    "correct": true
+  },
+  {
+    "learner": "learner-10",
+    "topic": "ml-basics",
+    "difficulty": 2,
+    "correct": false
+  },
+  {
+    "learner": "learner-10",
+    "topic": "ml-basics",
+    "difficulty": 2,
+    "correct": true
+  },
+  {
+    "learner": "learner-10",
+    "topic": "ml-basics",
+    "difficulty": 2,
+    "correct": true
+  },
+  {
+    "learner": "learner-10",
+    "topic": "regression",
+    "difficulty": 4,
+    "correct": false
+  },
+  {
+    "learner": "learner-10",
+    "topic": "regression",
+    "difficulty": 4,
+    "correct": true
+  },
+  {
+    "learner": "learner-11",
+    "topic": "control-flow",
+    "difficulty": 2,
+    "correct": true
+  },
+  {
+    "learner": "learner-11",
+    "topic": "control-flow",
+    "difficulty": 2,
+    "correct": true
+  },
+  {
+    "learner": "learner-11",
+    "topic": "control-flow",
+    "difficulty": 2,
+    "correct": true
+  },
+  {
+    "learner": "learner-11",
+    "topic": "control-flow",
+    "difficulty": 2,
+    "correct": true
+  },
+  {
+    "learner": "learner-11",
+    "topic": "control-flow",
+    "difficulty": 2,
+    "correct": true
+  },
+  {
+    "learner": "learner-11",
+    "topic": "recursion",
+    "difficulty": 4,
+    "correct": false
+  },
+  {
+    "learner": "learner-11",
+    "topic": "recursion",
+    "difficulty": 4,
+    "correct": false
+  },
+  {
+    "learner": "learner-11",
+    "topic": "sql-basics",
+    "difficulty": 1,
+    "correct": true
+  },
+  {
+    "learner": "learner-11",
+    "topic": "sql-basics",
+    "difficulty": 1,
+    "correct": true
+  },
+  {
+    "learner": "learner-11",
+    "topic": "html-css",
+    "difficulty": 1,
+    "correct": true
+  },
+  {
+    "learner": "learner-11",
+    "topic": "html-css",
+    "difficulty": 1,
+    "correct": true
+  },
+  {
+    "learner": "learner-11",
+    "topic": "html-css",
+    "difficulty": 1,
+    "correct": true
+  },
+  {
+    "learner": "learner-11",
+    "topic": "react-basics",
+    "difficulty": 2,
+    "correct": true
+  },
+  {
+    "learner": "learner-11",
+    "topic": "react-basics",
+    "difficulty": 2,
+    "correct": true
+  },
+  {
+    "learner": "learner-11",
+    "topic": "react-basics",
+    "difficulty": 2,
+    "correct": true
+  },
+  {
+    "learner": "learner-11",
+    "topic": "react-basics",
+    "difficulty": 2,
+    "correct": true
+  },
+  {
+    "learner": "learner-11",
+    "topic": "react-state",
+    "difficulty": 3,
+    "correct": true
+  },
+  {
+    "learner": "learner-11",
+    "topic": "react-state",
+    "difficulty": 3,
+    "correct": true
+  },
+  {
+    "learner": "learner-11",
+    "topic": "react-state",
+    "difficulty": 3,
+    "correct": true
+  },
+  {
+    "learner": "learner-11",
+    "topic": "react-state",
+    "difficulty": 3,
+    "correct": false
+  },
+  {
+    "learner": "learner-11",
+    "topic": "react-state",
+    "difficulty": 3,
+    "correct": true
+  },
+  {
+    "learner": "learner-11",
+    "topic": "ml-basics",
+    "difficulty": 2,
+    "correct": true
+  },
+  {
+    "learner": "learner-11",
+    "topic": "ml-basics",
+    "difficulty": 2,
+    "correct": true
+  },
+  {
+    "learner": "learner-11",
+    "topic": "ml-basics",
+    "difficulty": 2,
+    "correct": true
+  },
+  {
+    "learner": "learner-11",
+    "topic": "regression",
+    "difficulty": 4,
+    "correct": true
+  },
+  {
+    "learner": "learner-11",
+    "topic": "regression",
+    "difficulty": 4,
+    "correct": false
+  },
+  {
+    "learner": "learner-12",
+    "topic": "python-basics",
+    "difficulty": 1,
+    "correct": true
+  },
+  {
+    "learner": "learner-12",
+    "topic": "python-basics",
+    "difficulty": 1,
+    "correct": true
+  },
+  {
+    "learner": "learner-12",
+    "topic": "python-basics",
+    "difficulty": 1,
+    "correct": true
+  },
+  {
+    "learner": "learner-12",
+    "topic": "control-flow",
+    "difficulty": 2,
+    "correct": true
+  },
+  {
+    "learner": "learner-12",
+    "topic": "control-flow",
+    "difficulty": 2,
+    "correct": true
+  },
+  {
+    "learner": "learner-12",
+    "topic": "control-flow",
+    "difficulty": 2,
+    "correct": true
+  },
+  {
+    "learner": "learner-12",
+    "topic": "control-flow",
+    "difficulty": 2,
+    "correct": true
+  },
+  {
+    "learner": "learner-12",
+    "topic": "control-flow",
+    "difficulty": 2,
+    "correct": true
+  },
+  {
+    "learner": "learner-12",
+    "topic": "functions",
+    "difficulty": 3,
+    "correct": true
+  },
+  {
+    "learner": "learner-12",
+    "topic": "functions",
+    "difficulty": 3,
+    "correct": true
+  },
+  {
+    "learner": "learner-12",
+    "topic": "functions",
+    "difficulty": 3,
+    "correct": false
+  },
+  {
+    "learner": "learner-12",
+    "topic": "functions",
+    "difficulty": 3,
+    "correct": true
+  },
+  {
+    "learner": "learner-12",
+    "topic": "arrays",
+    "difficulty": 2,
+    "correct": true
+  },
+  {
+    "learner": "learner-12",
+    "topic": "arrays",
+    "difficulty": 2,
+    "correct": true
+  },
+  {
+    "learner": "learner-12",
+    "topic": "sorting",
+    "difficulty": 3,
+    "correct": true
+  },
+  {
+    "learner": "learner-12",
+    "topic": "sorting",
+    "difficulty": 3,
+    "correct": true
+  },
+  {
+    "learner": "learner-12",
+    "topic": "sorting",
+    "difficulty": 3,
+    "correct": false
+  },
+  {
+    "learner": "learner-12",
+    "topic": "sorting",
+    "difficulty": 3,
+    "correct": false
+  },
+  {
+    "learner": "learner-12",
+    "topic": "sorting",
+    "difficulty": 3,
+    "correct": false
+  },
+  {
+    "learner": "learner-12",
+    "topic": "sql-basics",
+    "difficulty": 1,
+    "correct": true
+  },
+  {
+    "learner": "learner-12",
+    "topic": "sql-basics",
+    "difficulty": 1,
+    "correct": true
+  },
+  {
+    "learner": "learner-12",
+    "topic": "sql-basics",
+    "difficulty": 1,
+    "correct": true
+  },
+  {
+    "learner": "learner-12",
+    "topic": "sql-basics",
+    "difficulty": 1,
+    "correct": true
+  },
+  {
+    "learner": "learner-12",
+    "topic": "sql-basics",
+    "difficulty": 1,
+    "correct": true
+  },
+  {
+    "learner": "learner-12",
+    "topic": "joins",
+    "difficulty": 3,
+    "correct": true
+  },
+  {
+    "learner": "learner-12",
+    "topic": "joins",
+    "difficulty": 3,
+    "correct": true
+  },
+  {
+    "learner": "learner-12",
+    "topic": "aggregation",
+    "difficulty": 3,
+    "correct": true
+  },
+  {
+    "learner": "learner-12",
+    "topic": "aggregation",
+    "difficulty": 3,
+    "correct": true
+  },
+  {
+    "learner": "learner-12",
+    "topic": "aggregation",
+    "difficulty": 3,
+    "correct": true
+  },
+  {
+    "learner": "learner-12",
+    "topic": "html-css",
+    "difficulty": 1,
+    "correct": true
+  },
+  {
+    "learner": "learner-12",
+    "topic": "html-css",
+    "difficulty": 1,
+    "correct": true
+  },
+  {
+    "learner": "learner-12",
+    "topic": "ml-basics",
+    "difficulty": 2,
+    "correct": true
+  },
+  {
+    "learner": "learner-12",
+    "topic": "ml-basics",
+    "difficulty": 2,
+    "correct": true
+  },
+  {
+    "learner": "learner-13",
+    "topic": "python-basics",
+    "difficulty": 1,
+    "correct": true
+  },
+  {
+    "learner": "learner-13",
+    "topic": "python-basics",
+    "difficulty": 1,
+    "correct": true
+  },
+  {
+    "learner": "learner-13",
+    "topic": "python-basics",
+    "difficulty": 1,
+    "correct": true
+  },
+  {
+    "learner": "learner-13",
+    "topic": "control-flow",
+    "difficulty": 2,
+    "correct": true
+  },
+  {
+    "learner": "learner-13",
+    "topic": "control-flow",
+    "difficulty": 2,
+    "correct": true
+  },
+  {
+    "learner": "learner-13",
+    "topic": "control-flow",
+    "difficulty": 2,
+    "correct": true
+  },
+  {
+    "learner": "learner-13",
+    "topic": "functions",
+    "difficulty": 3,
+    "correct": true
+  },
+  {
+    "learner": "learner-13",
+    "topic": "functions",
+    "difficulty": 3,
+    "correct": true
+  },
+  {
+    "learner": "learner-13",
+    "topic": "functions",
+    "difficulty": 3,
+    "correct": true
+  },
+  {
+    "learner": "learner-13",
+    "topic": "functions",
+    "difficulty": 3,
+    "correct": false
+  },
+  {
+    "learner": "learner-13",
+    "topic": "recursion",
+    "difficulty": 4,
+    "correct": false
+  },
+  {
+    "learner": "learner-13",
+    "topic": "recursion",
+    "difficulty": 4,
+    "correct": true
+  },
+  {
+    "learner": "learner-13",
+    "topic": "recursion",
+    "difficulty": 4,
+    "correct": false
+  },
+  {
+    "learner": "learner-13",
+    "topic": "recursion",
+    "difficulty": 4,
+    "correct": true
+  },
+  {
+    "learner": "learner-13",
+    "topic": "recursion",
+    "difficulty": 4,
+    "correct": false
+  },
+  {
+    "learner": "learner-13",
+    "topic": "aggregation",
+    "difficulty": 3,
+    "correct": true
+  },
+  {
+    "learner": "learner-13",
+    "topic": "aggregation",
+    "difficulty": 3,
+    "correct": true
+  },
+  {
+    "learner": "learner-13",
+    "topic": "aggregation",
+    "difficulty": 3,
+    "correct": false
+  },
+  {
+    "learner": "learner-13",
+    "topic": "aggregation",
+    "difficulty": 3,
+    "correct": true
+  },
+  {
+    "learner": "learner-13",
+    "topic": "html-css",
+    "difficulty": 1,
+    "correct": false
+  },
+  {
+    "learner": "learner-13",
+    "topic": "html-css",
+    "difficulty": 1,
+    "correct": true
+  },
+  {
+    "learner": "learner-13",
+    "topic": "react-basics",
+    "difficulty": 2,
+    "correct": true
+  },
+  {
+    "learner": "learner-13",
+    "topic": "react-basics",
+    "difficulty": 2,
+    "correct": true
+  },
+  {
+    "learner": "learner-13",
+    "topic": "react-basics",
+    "difficulty": 2,
+    "correct": true
+  },
+  {
+    "learner": "learner-13",
+    "topic": "react-basics",
+    "difficulty": 2,
+    "correct": true
+  },
+  {
+    "learner": "learner-13",
+    "topic": "react-basics",
+    "difficulty": 2,
+    "correct": true
+  },
+  {
+    "learner": "learner-13",
+    "topic": "react-state",
+    "difficulty": 3,
+    "correct": true
+  },
+  {
+    "learner": "learner-13",
+    "topic": "react-state",
+    "difficulty": 3,
+    "correct": true
+  },
+  {
+    "learner": "learner-13",
+    "topic": "react-state",
+    "difficulty": 3,
+    "correct": true
+  },
+  {
+    "learner": "learner-13",
+    "topic": "react-state",
+    "difficulty": 3,
+    "correct": true
+  },
+  {
+    "learner": "learner-13",
+    "topic": "react-state",
+    "difficulty": 3,
+    "correct": true
+  },
+  {
+    "learner": "learner-13",
+    "topic": "ml-basics",
+    "difficulty": 2,
+    "correct": true
+  },
+  {
+    "learner": "learner-13",
+    "topic": "ml-basics",
+    "difficulty": 2,
+    "correct": true
+  },
+  {
+    "learner": "learner-13",
+    "topic": "ml-basics",
+    "difficulty": 2,
+    "correct": true
+  },
+  {
+    "learner": "learner-13",
+    "topic": "ml-basics",
+    "difficulty": 2,
+    "correct": true
+  },
+  {
+    "learner": "learner-14",
+    "topic": "python-basics",
+    "difficulty": 1,
+    "correct": true
+  },
+  {
+    "learner": "learner-14",
+    "topic": "python-basics",
+    "difficulty": 1,
+    "correct": true
+  },
+  {
+    "learner": "learner-14",
+    "topic": "python-basics",
+    "difficulty": 1,
+    "correct": true
+  },
+  {
+    "learner": "learner-14",
+    "topic": "python-basics",
+    "difficulty": 1,
+    "correct": true
+  },
+  {
+    "learner": "learner-14",
+    "topic": "python-basics",
+    "difficulty": 1,
+    "correct": true
+  },
+  {
+    "learner": "learner-14",
+    "topic": "control-flow",
+    "difficulty": 2,
+    "correct": true
+  },
+  {
+    "learner": "learner-14",
+    "topic": "control-flow",
+    "difficulty": 2,
+    "correct": true
+  },
+  {
+    "learner": "learner-14",
+    "topic": "control-flow",
+    "difficulty": 2,
+    "correct": true
+  },
+  {
+    "learner": "learner-14",
+    "topic": "control-flow",
+    "difficulty": 2,
+    "correct": true
+  },
+  {
+    "learner": "learner-14",
+    "topic": "arrays",
+    "difficulty": 2,
+    "correct": true
+  },
+  {
+    "learner": "learner-14",
+    "topic": "arrays",
+    "difficulty": 2,
+    "correct": true
+  },
+  {
+    "learner": "learner-14",
+    "topic": "arrays",
+    "difficulty": 2,
+    "correct": true
+  },
+  {
+    "learner": "learner-14",
+    "topic": "arrays",
+    "difficulty": 2,
+    "correct": true
+  },
+  {
+    "learner": "learner-14",
+    "topic": "recursion",
+    "difficulty": 4,
+    "correct": false
+  },
+  {
+    "learner": "learner-14",
+    "topic": "recursion",
+    "difficulty": 4,
+    "correct": true
+  },
+  {
+    "learner": "learner-14",
+    "topic": "recursion",
+    "difficulty": 4,
+    "correct": true
+  },
+  {
+    "learner": "learner-14",
+    "topic": "sql-basics",
+    "difficulty": 1,
+    "correct": true
+  },
+  {
+    "learner": "learner-14",
+    "topic": "sql-basics",
+    "difficulty": 1,
+    "correct": true
+  },
+  {
+    "learner": "learner-14",
+    "topic": "sql-basics",
+    "difficulty": 1,
+    "correct": true
+  },
+  {
+    "learner": "learner-14",
+    "topic": "joins",
+    "difficulty": 3,
+    "correct": true
+  },
+  {
+    "learner": "learner-14",
+    "topic": "joins",
+    "difficulty": 3,
+    "correct": false
+  },
+  {
+    "learner": "learner-14",
+    "topic": "joins",
+    "difficulty": 3,
+    "correct": true
+  },
+  {
+    "learner": "learner-14",
+    "topic": "joins",
+    "difficulty": 3,
+    "correct": true
+  },
+  {
+    "learner": "learner-14",
+    "topic": "html-css",
+    "difficulty": 1,
+    "correct": true
+  },
+  {
+    "learner": "learner-14",
+    "topic": "html-css",
+    "difficulty": 1,
+    "correct": true
+  },
+  {
+    "learner": "learner-14",
+    "topic": "html-css",
+    "difficulty": 1,
+    "correct": true
+  },
+  {
+    "learner": "learner-14",
+    "topic": "react-state",
+    "difficulty": 3,
+    "correct": true
+  },
+  {
+    "learner": "learner-14",
+    "topic": "react-state",
+    "difficulty": 3,
+    "correct": true
+  },
+  {
+    "learner": "learner-14",
+    "topic": "react-state",
+    "difficulty": 3,
+    "correct": true
+  },
+  {
+    "learner": "learner-14",
+    "topic": "react-state",
+    "difficulty": 3,
+    "correct": false
+  },
+  {
+    "learner": "learner-14",
+    "topic": "react-state",
+    "difficulty": 3,
+    "correct": true
+  },
+  {
+    "learner": "learner-14",
+    "topic": "apis",
+    "difficulty": 4,
+    "correct": true
+  },
+  {
+    "learner": "learner-14",
+    "topic": "apis",
+    "difficulty": 4,
+    "correct": false
+  },
+  {
+    "learner": "learner-14",
+    "topic": "apis",
+    "difficulty": 4,
+    "correct": false
+  },
+  {
+    "learner": "learner-14",
+    "topic": "apis",
+    "difficulty": 4,
+    "correct": false
+  },
+  {
+    "learner": "learner-14",
+    "topic": "apis",
+    "difficulty": 4,
+    "correct": false
+  },
+  {
+    "learner": "learner-14",
+    "topic": "ml-basics",
+    "difficulty": 2,
+    "correct": true
+  },
+  {
+    "learner": "learner-14",
+    "topic": "ml-basics",
+    "difficulty": 2,
+    "correct": true
+  },
+  {
+    "learner": "learner-14",
+    "topic": "ml-basics",
+    "difficulty": 2,
+    "correct": true
+  },
+  {
+    "learner": "learner-14",
+    "topic": "ml-basics",
+    "difficulty": 2,
+    "correct": true
+  },
+  {
+    "learner": "learner-14",
+    "topic": "regression",
+    "difficulty": 4,
+    "correct": true
+  },
+  {
+    "learner": "learner-14",
+    "topic": "regression",
+    "difficulty": 4,
+    "correct": false
+  },
+  {
+    "learner": "learner-14",
+    "topic": "regression",
+    "difficulty": 4,
+    "correct": true
+  },
+  {
+    "learner": "learner-14",
+    "topic": "regression",
+    "difficulty": 4,
+    "correct": false
+  },
+  {
+    "learner": "learner-14",
+    "topic": "regression",
+    "difficulty": 4,
+    "correct": true
+  },
+  {
+    "learner": "learner-14",
+    "topic": "classification",
+    "difficulty": 4,
+    "correct": false
+  },
+  {
+    "learner": "learner-14",
+    "topic": "classification",
+    "difficulty": 4,
+    "correct": false
+  },
+  {
+    "learner": "learner-14",
+    "topic": "classification",
+    "difficulty": 4,
+    "correct": true
+  },
+  {
+    "learner": "learner-14",
+    "topic": "classification",
+    "difficulty": 4,
+    "correct": true
+  },
+  {
+    "learner": "learner-15",
+    "topic": "control-flow",
+    "difficulty": 2,
+    "correct": true
+  },
+  {
+    "learner": "learner-15",
+    "topic": "control-flow",
+    "difficulty": 2,
+    "correct": true
+  },
+  {
+    "learner": "learner-15",
+    "topic": "control-flow",
+    "difficulty": 2,
+    "correct": true
+  },
+  {
+    "learner": "learner-15",
+    "topic": "control-flow",
+    "difficulty": 2,
+    "correct": true
+  },
+  {
+    "learner": "learner-15",
+    "topic": "arrays",
+    "difficulty": 2,
+    "correct": true
+  },
+  {
+    "learner": "learner-15",
+    "topic": "arrays",
+    "difficulty": 2,
+    "correct": true
+  },
+  {
+    "learner": "learner-15",
+    "topic": "recursion",
+    "difficulty": 4,
+    "correct": false
+  },
+  {
+    "learner": "learner-15",
+    "topic": "recursion",
+    "difficulty": 4,
+    "correct": false
+  },
+  {
+    "learner": "learner-15",
+    "topic": "sorting",
+    "difficulty": 3,
+    "correct": true
+  },
+  {
+    "learner": "learner-15",
+    "topic": "sorting",
+    "difficulty": 3,
+    "correct": true
+  },
+  {
+    "learner": "learner-15",
+    "topic": "sorting",
+    "difficulty": 3,
+    "correct": true
+  },
+  {
+    "learner": "learner-15",
+    "topic": "sorting",
+    "difficulty": 3,
+    "correct": false
+  },
+  {
+    "learner": "learner-15",
+    "topic": "sorting",
+    "difficulty": 3,
+    "correct": false
+  },
+  {
+    "learner": "learner-15",
+    "topic": "sql-basics",
+    "difficulty": 1,
+    "correct": true
+  },
+  {
+    "learner": "learner-15",
+    "topic": "sql-basics",
+    "difficulty": 1,
+    "correct": true
+  },
+  {
+    "learner": "learner-15",
+    "topic": "sql-basics",
+    "difficulty": 1,
+    "correct": true
+  },
+  {
+    "learner": "learner-15",
+    "topic": "sql-basics",
+    "difficulty": 1,
+    "correct": true
+  },
+  {
+    "learner": "learner-15",
+    "topic": "sql-basics",
+    "difficulty": 1,
+    "correct": true
+  },
+  {
+    "learner": "learner-15",
+    "topic": "joins",
+    "difficulty": 3,
+    "correct": false
+  },
+  {
+    "learner": "learner-15",
+    "topic": "joins",
+    "difficulty": 3,
+    "correct": true
+  },
+  {
+    "learner": "learner-15",
+    "topic": "aggregation",
+    "difficulty": 3,
+    "correct": true
+  },
+  {
+    "learner": "learner-15",
+    "topic": "aggregation",
+    "difficulty": 3,
+    "correct": true
+  },
+  {
+    "learner": "learner-15",
+    "topic": "aggregation",
+    "difficulty": 3,
+    "correct": true
+  },
+  {
+    "learner": "learner-15",
+    "topic": "html-css",
+    "difficulty": 1,
+    "correct": true
+  },
+  {
+    "learner": "learner-15",
+    "topic": "html-css",
+    "difficulty": 1,
+    "correct": true
+  },
+  {
+    "learner": "learner-15",
+    "topic": "html-css",
+    "difficulty": 1,
+    "correct": true
+  },
+  {
+    "learner": "learner-15",
+    "topic": "html-css",
+    "difficulty": 1,
+    "correct": true
+  },
+  {
+    "learner": "learner-15",
+    "topic": "html-css",
+    "difficulty": 1,
+    "correct": true
+  },
+  {
+    "learner": "learner-15",
+    "topic": "react-state",
+    "difficulty": 3,
+    "correct": false
+  },
+  {
+    "learner": "learner-15",
+    "topic": "react-state",
+    "difficulty": 3,
+    "correct": true
+  },
+  {
+    "learner": "learner-15",
+    "topic": "react-state",
+    "difficulty": 3,
+    "correct": true
+  },
+  {
+    "learner": "learner-15",
+    "topic": "react-state",
+    "difficulty": 3,
+    "correct": true
+  },
+  {
+    "learner": "learner-15",
+    "topic": "ml-basics",
+    "difficulty": 2,
+    "correct": true
+  },
+  {
+    "learner": "learner-15",
+    "topic": "ml-basics",
+    "difficulty": 2,
+    "correct": true
+  },
+  {
+    "learner": "learner-15",
+    "topic": "ml-basics",
+    "difficulty": 2,
+    "correct": true
+  },
+  {
+    "learner": "learner-15",
+    "topic": "ml-basics",
+    "difficulty": 2,
+    "correct": true
+  },
+  {
+    "learner": "learner-15",
+    "topic": "classification",
+    "difficulty": 4,
+    "correct": false
+  },
+  {
+    "learner": "learner-15",
+    "topic": "classification",
+    "difficulty": 4,
+    "correct": true
+  },
+  {
+    "learner": "learner-15",
+    "topic": "classification",
+    "difficulty": 4,
+    "correct": false
+  },
+  {
+    "learner": "learner-15",
+    "topic": "classification",
+    "difficulty": 4,
+    "correct": true
+  },
+  {
+    "learner": "learner-15",
+    "topic": "classification",
+    "difficulty": 4,
+    "correct": true
+  },
+  {
+    "learner": "learner-16",
+    "topic": "python-basics",
+    "difficulty": 1,
+    "correct": true
+  },
+  {
+    "learner": "learner-16",
+    "topic": "python-basics",
+    "difficulty": 1,
+    "correct": true
+  },
+  {
+    "learner": "learner-16",
+    "topic": "python-basics",
+    "difficulty": 1,
+    "correct": true
+  },
+  {
+    "learner": "learner-16",
+    "topic": "functions",
+    "difficulty": 3,
+    "correct": true
+  },
+  {
+    "learner": "learner-16",
+    "topic": "functions",
+    "difficulty": 3,
+    "correct": true
+  },
+  {
+    "learner": "learner-16",
+    "topic": "functions",
+    "difficulty": 3,
+    "correct": true
+  },
+  {
+    "learner": "learner-16",
+    "topic": "functions",
+    "difficulty": 3,
+    "correct": false
+  },
+  {
+    "learner": "learner-16",
+    "topic": "functions",
+    "difficulty": 3,
+    "correct": true
+  },
+  {
+    "learner": "learner-16",
+    "topic": "arrays",
+    "difficulty": 2,
+    "correct": true
+  },
+  {
+    "learner": "learner-16",
+    "topic": "arrays",
+    "difficulty": 2,
+    "correct": true
+  },
+  {
+    "learner": "learner-16",
+    "topic": "arrays",
+    "difficulty": 2,
+    "correct": true
+  },
+  {
+    "learner": "learner-16",
+    "topic": "arrays",
+    "difficulty": 2,
+    "correct": true
+  },
+  {
+    "learner": "learner-16",
+    "topic": "recursion",
+    "difficulty": 4,
+    "correct": false
+  },
+  {
+    "learner": "learner-16",
+    "topic": "recursion",
+    "difficulty": 4,
+    "correct": true
+  },
+  {
+    "learner": "learner-16",
+    "topic": "joins",
+    "difficulty": 3,
+    "correct": true
+  },
+  {
+    "learner": "learner-16",
+    "topic": "joins",
+    "difficulty": 3,
+    "correct": true
+  },
+  {
+    "learner": "learner-16",
+    "topic": "aggregation",
+    "difficulty": 3,
+    "correct": true
+  },
+  {
+    "learner": "learner-16",
+    "topic": "aggregation",
+    "difficulty": 3,
+    "correct": true
+  },
+  {
+    "learner": "learner-16",
+    "topic": "aggregation",
+    "difficulty": 3,
+    "correct": false
+  },
+  {
+    "learner": "learner-16",
+    "topic": "aggregation",
+    "difficulty": 3,
+    "correct": true
+  },
+  {
+    "learner": "learner-16",
+    "topic": "aggregation",
+    "difficulty": 3,
+    "correct": false
+  },
+  {
+    "learner": "learner-16",
+    "topic": "html-css",
+    "difficulty": 1,
+    "correct": true
+  },
+  {
+    "learner": "learner-16",
+    "topic": "html-css",
+    "difficulty": 1,
+    "correct": true
+  },
+  {
+    "learner": "learner-16",
+    "topic": "html-css",
+    "difficulty": 1,
+    "correct": true
+  },
+  {
+    "learner": "learner-16",
+    "topic": "html-css",
+    "difficulty": 1,
+    "correct": true
+  },
+  {
+    "learner": "learner-16",
+    "topic": "html-css",
+    "difficulty": 1,
+    "correct": true
+  },
+  {
+    "learner": "learner-16",
+    "topic": "apis",
+    "difficulty": 4,
+    "correct": true
+  },
+  {
+    "learner": "learner-16",
+    "topic": "apis",
+    "difficulty": 4,
+    "correct": true
+  },
+  {
+    "learner": "learner-16",
+    "topic": "apis",
+    "difficulty": 4,
+    "correct": true
+  },
+  {
+    "learner": "learner-16",
+    "topic": "apis",
+    "difficulty": 4,
+    "correct": false
+  },
+  {
+    "learner": "learner-16",
+    "topic": "ml-basics",
+    "difficulty": 2,
+    "correct": true
+  },
+  {
+    "learner": "learner-16",
+    "topic": "ml-basics",
+    "difficulty": 2,
+    "correct": true
+  },
+  {
+    "learner": "learner-17",
+    "topic": "arrays",
+    "difficulty": 2,
+    "correct": true
+  },
+  {
+    "learner": "learner-17",
+    "topic": "arrays",
+    "difficulty": 2,
+    "correct": true
+  },
+  {
+    "learner": "learner-17",
+    "topic": "arrays",
+    "difficulty": 2,
+    "correct": true
+  },
+  {
+    "learner": "learner-17",
+    "topic": "arrays",
+    "difficulty": 2,
+    "correct": true
+  },
+  {
+    "learner": "learner-17",
+    "topic": "arrays",
+    "difficulty": 2,
+    "correct": true
+  },
+  {
+    "learner": "learner-17",
+    "topic": "sorting",
+    "difficulty": 3,
+    "correct": true
+  },
+  {
+    "learner": "learner-17",
+    "topic": "sorting",
+    "difficulty": 3,
+    "correct": true
+  },
+  {
+    "learner": "learner-17",
+    "topic": "joins",
+    "difficulty": 3,
+    "correct": true
+  },
+  {
+    "learner": "learner-17",
+    "topic": "joins",
+    "difficulty": 3,
+    "correct": true
+  },
+  {
+    "learner": "learner-17",
+    "topic": "joins",
+    "difficulty": 3,
+    "correct": true
+  },
+  {
+    "learner": "learner-17",
+    "topic": "joins",
+    "difficulty": 3,
+    "correct": true
+  },
+  {
+    "learner": "learner-17",
+    "topic": "joins",
+    "difficulty": 3,
+    "correct": true
+  },
+  {
+    "learner": "learner-17",
+    "topic": "aggregation",
+    "difficulty": 3,
+    "correct": true
+  },
+  {
+    "learner": "learner-17",
+    "topic": "aggregation",
+    "difficulty": 3,
+    "correct": true
+  },
+  {
+    "learner": "learner-17",
+    "topic": "aggregation",
+    "difficulty": 3,
+    "correct": true
+  },
+  {
+    "learner": "learner-17",
+    "topic": "aggregation",
+    "difficulty": 3,
+    "correct": true
+  },
+  {
+    "learner": "learner-17",
+    "topic": "aggregation",
+    "difficulty": 3,
+    "correct": true
+  },
+  {
+    "learner": "learner-17",
+    "topic": "html-css",
+    "difficulty": 1,
+    "correct": true
+  },
+  {
+    "learner": "learner-17",
+    "topic": "html-css",
+    "difficulty": 1,
+    "correct": true
+  },
+  {
+    "learner": "learner-17",
+    "topic": "html-css",
+    "difficulty": 1,
+    "correct": true
+  },
+  {
+    "learner": "learner-17",
+    "topic": "react-basics",
+    "difficulty": 2,
+    "correct": true
+  },
+  {
+    "learner": "learner-17",
+    "topic": "react-basics",
+    "difficulty": 2,
+    "correct": false
+  },
+  {
+    "learner": "learner-17",
+    "topic": "react-state",
+    "difficulty": 3,
+    "correct": true
+  },
+  {
+    "learner": "learner-17",
+    "topic": "react-state",
+    "difficulty": 3,
+    "correct": true
+  },
+  {
+    "learner": "learner-17",
+    "topic": "react-state",
+    "difficulty": 3,
+    "correct": true
+  },
+  {
+    "learner": "learner-17",
+    "topic": "react-state",
+    "difficulty": 3,
+    "correct": true
+  },
+  {
+    "learner": "learner-17",
+    "topic": "react-state",
+    "difficulty": 3,
+    "correct": true
+  },
+  {
+    "learner": "learner-17",
+    "topic": "apis",
+    "difficulty": 4,
+    "correct": true
+  },
+  {
+    "learner": "learner-17",
+    "topic": "apis",
+    "difficulty": 4,
+    "correct": false
+  },
+  {
+    "learner": "learner-17",
+    "topic": "apis",
+    "difficulty": 4,
+    "correct": true
+  },
+  {
+    "learner": "learner-17",
+    "topic": "apis",
+    "difficulty": 4,
+    "correct": true
+  },
+  {
+    "learner": "learner-17",
+    "topic": "apis",
+    "difficulty": 4,
+    "correct": true
+  },
+  {
+    "learner": "learner-17",
+    "topic": "regression",
+    "difficulty": 4,
+    "correct": true
+  },
+  {
+    "learner": "learner-17",
+    "topic": "regression",
+    "difficulty": 4,
+    "correct": true
+  },
+  {
+    "learner": "learner-17",
+    "topic": "regression",
+    "difficulty": 4,
+    "correct": true
+  },
+  {
+    "learner": "learner-17",
+    "topic": "regression",
+    "difficulty": 4,
+    "correct": true
+  },
+  {
+    "learner": "learner-18",
+    "topic": "python-basics",
+    "difficulty": 1,
+    "correct": true
+  },
+  {
+    "learner": "learner-18",
+    "topic": "python-basics",
+    "difficulty": 1,
+    "correct": true
+  },
+  {
+    "learner": "learner-18",
+    "topic": "python-basics",
+    "difficulty": 1,
+    "correct": true
+  },
+  {
+    "learner": "learner-18",
+    "topic": "python-basics",
+    "difficulty": 1,
+    "correct": true
+  },
+  {
+    "learner": "learner-18",
+    "topic": "control-flow",
+    "difficulty": 2,
+    "correct": true
+  },
+  {
+    "learner": "learner-18",
+    "topic": "control-flow",
+    "difficulty": 2,
+    "correct": true
+  },
+  {
+    "learner": "learner-18",
+    "topic": "arrays",
+    "difficulty": 2,
+    "correct": true
+  },
+  {
+    "learner": "learner-18",
+    "topic": "arrays",
+    "difficulty": 2,
+    "correct": true
+  },
+  {
+    "learner": "learner-18",
+    "topic": "arrays",
+    "difficulty": 2,
+    "correct": true
+  },
+  {
+    "learner": "learner-18",
+    "topic": "sql-basics",
+    "difficulty": 1,
+    "correct": true
+  },
+  {
+    "learner": "learner-18",
+    "topic": "sql-basics",
+    "difficulty": 1,
+    "correct": true
+  },
+  {
+    "learner": "learner-18",
+    "topic": "sql-basics",
+    "difficulty": 1,
+    "correct": true
+  },
+  {
+    "learner": "learner-18",
+    "topic": "sql-basics",
+    "difficulty": 1,
+    "correct": true
+  },
+  {
+    "learner": "learner-18",
+    "topic": "joins",
+    "difficulty": 3,
+    "correct": true
+  },
+  {
+    "learner": "learner-18",
+    "topic": "joins",
+    "difficulty": 3,
+    "correct": true
+  },
+  {
+    "learner": "learner-18",
+    "topic": "joins",
+    "difficulty": 3,
+    "correct": false
+  },
+  {
+    "learner": "learner-18",
+    "topic": "aggregation",
+    "difficulty": 3,
+    "correct": false
+  },
+  {
+    "learner": "learner-18",
+    "topic": "aggregation",
+    "difficulty": 3,
+    "correct": true
+  },
+  {
+    "learner": "learner-18",
+    "topic": "aggregation",
+    "difficulty": 3,
+    "correct": true
+  },
+  {
+    "learner": "learner-18",
+    "topic": "aggregation",
+    "difficulty": 3,
+    "correct": true
+  },
+  {
+    "learner": "learner-18",
+    "topic": "ml-basics",
+    "difficulty": 2,
+    "correct": true
+  },
+  {
+    "learner": "learner-18",
+    "topic": "ml-basics",
+    "difficulty": 2,
+    "correct": true
+  },
+  {
+    "learner": "learner-18",
+    "topic": "regression",
+    "difficulty": 4,
+    "correct": true
+  },
+  {
+    "learner": "learner-18",
+    "topic": "regression",
+    "difficulty": 4,
+    "correct": true
+  },
+  {
+    "learner": "learner-18",
+    "topic": "regression",
+    "difficulty": 4,
+    "correct": true
+  },
+  {
+    "learner": "learner-18",
+    "topic": "regression",
+    "difficulty": 4,
+    "correct": false
+  },
+  {
+    "learner": "learner-18",
+    "topic": "regression",
+    "difficulty": 4,
+    "correct": false
+  },
+  {
+    "learner": "learner-18",
+    "topic": "classification",
+    "difficulty": 4,
+    "correct": true
+  },
+  {
+    "learner": "learner-18",
+    "topic": "classification",
+    "difficulty": 4,
+    "correct": false
+  },
+  {
+    "learner": "learner-19",
+    "topic": "control-flow",
+    "difficulty": 2,
+    "correct": true
+  },
+  {
+    "learner": "learner-19",
+    "topic": "control-flow",
+    "difficulty": 2,
+    "correct": true
+  },
+  {
+    "learner": "learner-19",
+    "topic": "control-flow",
+    "difficulty": 2,
+    "correct": true
+  },
+  {
+    "learner": "learner-19",
+    "topic": "functions",
+    "difficulty": 3,
+    "correct": true
+  },
+  {
+    "learner": "learner-19",
+    "topic": "functions",
+    "difficulty": 3,
+    "correct": true
+  },
+  {
+    "learner": "learner-19",
+    "topic": "functions",
+    "difficulty": 3,
+    "correct": true
+  },
+  {
+    "learner": "learner-19",
+    "topic": "functions",
+    "difficulty": 3,
+    "correct": true
+  },
+  {
+    "learner": "learner-19",
+    "topic": "functions",
+    "difficulty": 3,
+    "correct": true
+  },
+  {
+    "learner": "learner-19",
+    "topic": "arrays",
+    "difficulty": 2,
+    "correct": true
+  },
+  {
+    "learner": "learner-19",
+    "topic": "arrays",
+    "difficulty": 2,
+    "correct": true
+  },
+  {
+    "learner": "learner-19",
+    "topic": "arrays",
+    "difficulty": 2,
+    "correct": true
+  },
+  {
+    "learner": "learner-19",
+    "topic": "arrays",
+    "difficulty": 2,
+    "correct": true
+  },
+  {
+    "learner": "learner-19",
+    "topic": "arrays",
+    "difficulty": 2,
+    "correct": true
+  },
+  {
+    "learner": "learner-19",
+    "topic": "sorting",
+    "difficulty": 3,
+    "correct": true
+  },
+  {
+    "learner": "learner-19",
+    "topic": "sorting",
+    "difficulty": 3,
+    "correct": true
+  },
+  {
+    "learner": "learner-19",
+    "topic": "sorting",
+    "difficulty": 3,
+    "correct": true
+  },
+  {
+    "learner": "learner-19",
+    "topic": "sorting",
+    "difficulty": 3,
+    "correct": true
+  },
+  {
+    "learner": "learner-19",
+    "topic": "sql-basics",
+    "difficulty": 1,
+    "correct": true
+  },
+  {
+    "learner": "learner-19",
+    "topic": "sql-basics",
+    "difficulty": 1,
+    "correct": true
+  },
+  {
+    "learner": "learner-19",
+    "topic": "aggregation",
+    "difficulty": 3,
+    "correct": true
+  },
+  {
+    "learner": "learner-19",
+    "topic": "aggregation",
+    "difficulty": 3,
+    "correct": true
+  },
+  {
+    "learner": "learner-19",
+    "topic": "aggregation",
+    "difficulty": 3,
+    "correct": true
+  },
+  {
+    "learner": "learner-19",
+    "topic": "aggregation",
+    "difficulty": 3,
+    "correct": true
+  },
+  {
+    "learner": "learner-19",
+    "topic": "aggregation",
+    "difficulty": 3,
+    "correct": true
+  },
+  {
+    "learner": "learner-19",
+    "topic": "apis",
+    "difficulty": 4,
+    "correct": true
+  },
+  {
+    "learner": "learner-19",
+    "topic": "apis",
+    "difficulty": 4,
+    "correct": true
+  },
+  {
+    "learner": "learner-19",
+    "topic": "apis",
+    "difficulty": 4,
+    "correct": false
+  },
+  {
+    "learner": "learner-19",
+    "topic": "classification",
+    "difficulty": 4,
+    "correct": true
+  },
+  {
+    "learner": "learner-19",
+    "topic": "classification",
+    "difficulty": 4,
+    "correct": true
+  },
+  {
+    "learner": "learner-19",
+    "topic": "classification",
+    "difficulty": 4,
+    "correct": false
+  },
+  {
+    "learner": "learner-19",
+    "topic": "classification",
+    "difficulty": 4,
+    "correct": true
+  },
+  {
+    "learner": "learner-19",
+    "topic": "classification",
+    "difficulty": 4,
+    "correct": false
+  },
+  {
+    "learner": "learner-20",
+    "topic": "python-basics",
+    "difficulty": 1,
+    "correct": true
+  },
+  {
+    "learner": "learner-20",
+    "topic": "python-basics",
+    "difficulty": 1,
+    "correct": true
+  },
+  {
+    "learner": "learner-20",
+    "topic": "python-basics",
+    "difficulty": 1,
+    "correct": true
+  },
+  {
+    "learner": "learner-20",
+    "topic": "python-basics",
+    "difficulty": 1,
+    "correct": true
+  },
+  {
+    "learner": "learner-20",
+    "topic": "recursion",
+    "difficulty": 4,
+    "correct": true
+  },
+  {
+    "learner": "learner-20",
+    "topic": "recursion",
+    "difficulty": 4,
+    "correct": true
+  },
+  {
+    "learner": "learner-20",
+    "topic": "recursion",
+    "difficulty": 4,
+    "correct": true
+  },
+  {
+    "learner": "learner-20",
+    "topic": "recursion",
+    "difficulty": 4,
+    "correct": true
+  },
+  {
+    "learner": "learner-20",
+    "topic": "recursion",
+    "difficulty": 4,
+    "correct": true
+  },
+  {
+    "learner": "learner-20",
+    "topic": "sorting",
+    "difficulty": 3,
+    "correct": true
+  },
+  {
+    "learner": "learner-20",
+    "topic": "sorting",
+    "difficulty": 3,
+    "correct": true
+  },
+  {
+    "learner": "learner-20",
+    "topic": "sorting",
+    "difficulty": 3,
+    "correct": true
+  },
+  {
+    "learner": "learner-20",
+    "topic": "sorting",
+    "difficulty": 3,
+    "correct": true
+  },
+  {
+    "learner": "learner-20",
+    "topic": "sql-basics",
+    "difficulty": 1,
+    "correct": true
+  },
+  {
+    "learner": "learner-20",
+    "topic": "sql-basics",
+    "difficulty": 1,
+    "correct": true
+  },
+  {
+    "learner": "learner-20",
+    "topic": "sql-basics",
+    "difficulty": 1,
+    "correct": true
+  },
+  {
+    "learner": "learner-20",
+    "topic": "joins",
+    "difficulty": 3,
+    "correct": true
+  },
+  {
+    "learner": "learner-20",
+    "topic": "joins",
+    "difficulty": 3,
+    "correct": true
+  },
+  {
+    "learner": "learner-20",
+    "topic": "joins",
+    "difficulty": 3,
+    "correct": false
+  },
+  {
+    "learner": "learner-20",
+    "topic": "joins",
+    "difficulty": 3,
+    "correct": true
+  },
+  {
+    "learner": "learner-20",
+    "topic": "joins",
+    "difficulty": 3,
+    "correct": true
+  },
+  {
+    "learner": "learner-20",
+    "topic": "react-basics",
+    "difficulty": 2,
+    "correct": true
+  },
+  {
+    "learner": "learner-20",
+    "topic": "react-basics",
+    "difficulty": 2,
+    "correct": true
+  },
+  {
+    "learner": "learner-20",
+    "topic": "react-basics",
+    "difficulty": 2,
+    "correct": true
+  },
+  {
+    "learner": "learner-20",
+    "topic": "react-basics",
+    "difficulty": 2,
+    "correct": true
+  },
+  {
+    "learner": "learner-20",
+    "topic": "react-basics",
+    "difficulty": 2,
+    "correct": true
+  },
+  {
+    "learner": "learner-20",
+    "topic": "react-state",
+    "difficulty": 3,
+    "correct": true
+  },
+  {
+    "learner": "learner-20",
+    "topic": "react-state",
+    "difficulty": 3,
+    "correct": true
+  },
+  {
+    "learner": "learner-20",
+    "topic": "react-state",
+    "difficulty": 3,
+    "correct": true
+  },
+  {
+    "learner": "learner-20",
+    "topic": "react-state",
+    "difficulty": 3,
+    "correct": true
+  },
+  {
+    "learner": "learner-20",
+    "topic": "react-state",
+    "difficulty": 3,
+    "correct": true
+  },
+  {
+    "learner": "learner-20",
+    "topic": "ml-basics",
+    "difficulty": 2,
+    "correct": true
+  },
+  {
+    "learner": "learner-20",
+    "topic": "ml-basics",
+    "difficulty": 2,
+    "correct": true
+  },
+  {
+    "learner": "learner-20",
+    "topic": "ml-basics",
+    "difficulty": 2,
+    "correct": true
+  },
+  {
+    "learner": "learner-20",
+    "topic": "ml-basics",
+    "difficulty": 2,
+    "correct": true
+  },
+  {
+    "learner": "learner-21",
+    "topic": "python-basics",
+    "difficulty": 1,
+    "correct": true
+  },
+  {
+    "learner": "learner-21",
+    "topic": "python-basics",
+    "difficulty": 1,
+    "correct": true
+  },
+  {
+    "learner": "learner-21",
+    "topic": "control-flow",
+    "difficulty": 2,
+    "correct": true
+  },
+  {
+    "learner": "learner-21",
+    "topic": "control-flow",
+    "difficulty": 2,
+    "correct": true
+  },
+  {
+    "learner": "learner-21",
+    "topic": "control-flow",
+    "difficulty": 2,
+    "correct": true
+  },
+  {
+    "learner": "learner-21",
+    "topic": "control-flow",
+    "difficulty": 2,
+    "correct": true
+  },
+  {
+    "learner": "learner-21",
+    "topic": "control-flow",
+    "difficulty": 2,
+    "correct": true
+  },
+  {
+    "learner": "learner-21",
+    "topic": "functions",
+    "difficulty": 3,
+    "correct": true
+  },
+  {
+    "learner": "learner-21",
+    "topic": "functions",
+    "difficulty": 3,
+    "correct": true
+  },
+  {
+    "learner": "learner-21",
+    "topic": "arrays",
+    "difficulty": 2,
+    "correct": true
+  },
+  {
+    "learner": "learner-21",
+    "topic": "arrays",
+    "difficulty": 2,
+    "correct": true
+  },
+  {
+    "learner": "learner-21",
+    "topic": "sorting",
+    "difficulty": 3,
+    "correct": true
+  },
+  {
+    "learner": "learner-21",
+    "topic": "sorting",
+    "difficulty": 3,
+    "correct": true
+  },
+  {
+    "learner": "learner-21",
+    "topic": "sql-basics",
+    "difficulty": 1,
+    "correct": true
+  },
+  {
+    "learner": "learner-21",
+    "topic": "sql-basics",
+    "difficulty": 1,
+    "correct": true
+  },
+  {
+    "learner": "learner-21",
+    "topic": "sql-basics",
+    "difficulty": 1,
+    "correct": true
+  },
+  {
+    "learner": "learner-21",
+    "topic": "joins",
+    "difficulty": 3,
+    "correct": true
+  },
+  {
+    "learner": "learner-21",
+    "topic": "joins",
+    "difficulty": 3,
+    "correct": true
+  },
+  {
+    "learner": "learner-21",
+    "topic": "html-css",
+    "difficulty": 1,
+    "correct": true
+  },
+  {
+    "learner": "learner-21",
+    "topic": "html-css",
+    "difficulty": 1,
+    "correct": true
+  },
+  {
+    "learner": "learner-21",
+    "topic": "html-css",
+    "difficulty": 1,
+    "correct": true
+  },
+  {
+    "learner": "learner-21",
+    "topic": "html-css",
+    "difficulty": 1,
+    "correct": true
+  },
+  {
+    "learner": "learner-21",
+    "topic": "html-css",
+    "difficulty": 1,
+    "correct": false
+  },
+  {
+    "learner": "learner-21",
+    "topic": "ml-basics",
+    "difficulty": 2,
+    "correct": true
+  },
+  {
+    "learner": "learner-21",
+    "topic": "ml-basics",
+    "difficulty": 2,
+    "correct": true
+  },
+  {
+    "learner": "learner-21",
+    "topic": "ml-basics",
+    "difficulty": 2,
+    "correct": true
+  },
+  {
+    "learner": "learner-21",
+    "topic": "ml-basics",
+    "difficulty": 2,
+    "correct": true
+  },
+  {
+    "learner": "learner-21",
+    "topic": "regression",
+    "difficulty": 4,
+    "correct": false
+  },
+  {
+    "learner": "learner-21",
+    "topic": "regression",
+    "difficulty": 4,
+    "correct": true
+  },
+  {
+    "learner": "learner-22",
+    "topic": "control-flow",
+    "difficulty": 2,
+    "correct": true
+  },
+  {
+    "learner": "learner-22",
+    "topic": "control-flow",
+    "difficulty": 2,
+    "correct": true
+  },
+  {
+    "learner": "learner-22",
+    "topic": "recursion",
+    "difficulty": 4,
+    "correct": false
+  },
+  {
+    "learner": "learner-22",
+    "topic": "recursion",
+    "difficulty": 4,
+    "correct": true
+  },
+  {
+    "learner": "learner-22",
+    "topic": "recursion",
+    "difficulty": 4,
+    "correct": false
+  },
+  {
+    "learner": "learner-22",
+    "topic": "sorting",
+    "difficulty": 3,
+    "correct": true
+  },
+  {
+    "learner": "learner-22",
+    "topic": "sorting",
+    "difficulty": 3,
+    "correct": true
+  },
+  {
+    "learner": "learner-22",
+    "topic": "joins",
+    "difficulty": 3,
+    "correct": true
+  },
+  {
+    "learner": "learner-22",
+    "topic": "joins",
+    "difficulty": 3,
+    "correct": true
+  },
+  {
+    "learner": "learner-22",
+    "topic": "joins",
+    "difficulty": 3,
+    "correct": true
+  },
+  {
+    "learner": "learner-22",
+    "topic": "joins",
+    "difficulty": 3,
+    "correct": true
+  },
+  {
+    "learner": "learner-22",
+    "topic": "joins",
+    "difficulty": 3,
+    "correct": true
+  },
+  {
+    "learner": "learner-22",
+    "topic": "aggregation",
+    "difficulty": 3,
+    "correct": true
+  },
+  {
+    "learner": "learner-22",
+    "topic": "aggregation",
+    "difficulty": 3,
+    "correct": true
+  },
+  {
+    "learner": "learner-22",
+    "topic": "aggregation",
+    "difficulty": 3,
+    "correct": true
+  },
+  {
+    "learner": "learner-22",
+    "topic": "html-css",
+    "difficulty": 1,
+    "correct": true
+  },
+  {
+    "learner": "learner-22",
+    "topic": "html-css",
+    "difficulty": 1,
+    "correct": true
+  },
+  {
+    "learner": "learner-22",
+    "topic": "html-css",
+    "difficulty": 1,
+    "correct": true
+  },
+  {
+    "learner": "learner-22",
+    "topic": "react-basics",
+    "difficulty": 2,
+    "correct": true
+  },
+  {
+    "learner": "learner-22",
+    "topic": "react-basics",
+    "difficulty": 2,
+    "correct": true
+  },
+  {
+    "learner": "learner-22",
+    "topic": "react-state",
+    "difficulty": 3,
+    "correct": true
+  },
+  {
+    "learner": "learner-22",
+    "topic": "react-state",
+    "difficulty": 3,
+    "correct": true
+  },
+  {
+    "learner": "learner-22",
+    "topic": "apis",
+    "difficulty": 4,
+    "correct": false
+  },
+  {
+    "learner": "learner-22",
+    "topic": "apis",
+    "difficulty": 4,
+    "correct": false
+  },
+  {
+    "learner": "learner-22",
+    "topic": "ml-basics",
+    "difficulty": 2,
+    "correct": true
+  },
+  {
+    "learner": "learner-22",
+    "topic": "ml-basics",
+    "difficulty": 2,
+    "correct": true
+  },
+  {
+    "learner": "learner-22",
+    "topic": "ml-basics",
+    "difficulty": 2,
+    "correct": true
+  },
+  {
+    "learner": "learner-22",
+    "topic": "ml-basics",
+    "difficulty": 2,
+    "correct": true
+  },
+  {
+    "learner": "learner-22",
+    "topic": "ml-basics",
+    "difficulty": 2,
+    "correct": true
+  },
+  {
+    "learner": "learner-22",
+    "topic": "classification",
+    "difficulty": 4,
+    "correct": true
+  },
+  {
+    "learner": "learner-22",
+    "topic": "classification",
+    "difficulty": 4,
+    "correct": true
+  },
+  {
+    "learner": "learner-22",
+    "topic": "classification",
+    "difficulty": 4,
+    "correct": true
+  },
+  {
+    "learner": "learner-22",
+    "topic": "classification",
+    "difficulty": 4,
+    "correct": true
+  },
+  {
+    "learner": "learner-23",
+    "topic": "control-flow",
+    "difficulty": 2,
+    "correct": true
+  },
+  {
+    "learner": "learner-23",
+    "topic": "control-flow",
+    "difficulty": 2,
+    "correct": true
+  },
+  {
+    "learner": "learner-23",
+    "topic": "functions",
+    "difficulty": 3,
+    "correct": true
+  },
+  {
+    "learner": "learner-23",
+    "topic": "functions",
+    "difficulty": 3,
+    "correct": true
+  },
+  {
+    "learner": "learner-23",
+    "topic": "functions",
+    "difficulty": 3,
+    "correct": false
+  },
+  {
+    "learner": "learner-23",
+    "topic": "arrays",
+    "difficulty": 2,
+    "correct": true
+  },
+  {
+    "learner": "learner-23",
+    "topic": "arrays",
+    "difficulty": 2,
+    "correct": true
+  },
+  {
+    "learner": "learner-23",
+    "topic": "arrays",
+    "difficulty": 2,
+    "correct": true
+  },
+  {
+    "learner": "learner-23",
+    "topic": "arrays",
+    "difficulty": 2,
+    "correct": true
+  },
+  {
+    "learner": "learner-23",
+    "topic": "arrays",
+    "difficulty": 2,
+    "correct": true
+  },
+  {
+    "learner": "learner-23",
+    "topic": "recursion",
+    "difficulty": 4,
+    "correct": true
+  },
+  {
+    "learner": "learner-23",
+    "topic": "recursion",
+    "difficulty": 4,
+    "correct": true
+  },
+  {
+    "learner": "learner-23",
+    "topic": "recursion",
+    "difficulty": 4,
+    "correct": true
+  },
+  {
+    "learner": "learner-23",
+    "topic": "sql-basics",
+    "difficulty": 1,
+    "correct": true
+  },
+  {
+    "learner": "learner-23",
+    "topic": "sql-basics",
+    "difficulty": 1,
+    "correct": true
+  },
+  {
+    "learner": "learner-23",
+    "topic": "sql-basics",
+    "difficulty": 1,
+    "correct": true
+  },
+  {
+    "learner": "learner-23",
+    "topic": "joins",
+    "difficulty": 3,
+    "correct": true
+  },
+  {
+    "learner": "learner-23",
+    "topic": "joins",
+    "difficulty": 3,
+    "correct": true
+  },
+  {
+    "learner": "learner-23",
+    "topic": "joins",
+    "difficulty": 3,
+    "correct": true
+  },
+  {
+    "learner": "learner-23",
+    "topic": "aggregation",
+    "difficulty": 3,
+    "correct": true
+  },
+  {
+    "learner": "learner-23",
+    "topic": "aggregation",
+    "difficulty": 3,
+    "correct": true
+  },
+  {
+    "learner": "learner-23",
+    "topic": "aggregation",
+    "difficulty": 3,
+    "correct": false
+  },
+  {
+    "learner": "learner-23",
+    "topic": "aggregation",
+    "difficulty": 3,
+    "correct": true
+  },
+  {
+    "learner": "learner-23",
+    "topic": "html-css",
+    "difficulty": 1,
+    "correct": true
+  },
+  {
+    "learner": "learner-23",
+    "topic": "html-css",
+    "difficulty": 1,
+    "correct": true
+  },
+  {
+    "learner": "learner-23",
+    "topic": "html-css",
+    "difficulty": 1,
+    "correct": true
+  },
+  {
+    "learner": "learner-23",
+    "topic": "html-css",
+    "difficulty": 1,
+    "correct": true
+  },
+  {
+    "learner": "learner-23",
+    "topic": "html-css",
+    "difficulty": 1,
+    "correct": true
+  },
+  {
+    "learner": "learner-23",
+    "topic": "apis",
+    "difficulty": 4,
+    "correct": false
+  },
+  {
+    "learner": "learner-23",
+    "topic": "apis",
+    "difficulty": 4,
+    "correct": true
+  },
+  {
+    "learner": "learner-23",
+    "topic": "apis",
+    "difficulty": 4,
+    "correct": true
+  },
+  {
+    "learner": "learner-23",
+    "topic": "apis",
+    "difficulty": 4,
+    "correct": true
+  },
+  {
+    "learner": "learner-23",
+    "topic": "ml-basics",
+    "difficulty": 2,
+    "correct": false
+  },
+  {
+    "learner": "learner-23",
+    "topic": "ml-basics",
+    "difficulty": 2,
+    "correct": true
+  },
+  {
+    "learner": "learner-23",
+    "topic": "ml-basics",
+    "difficulty": 2,
+    "correct": true
+  },
+  {
+    "learner": "learner-23",
+    "topic": "regression",
+    "difficulty": 4,
+    "correct": true
+  },
+  {
+    "learner": "learner-23",
+    "topic": "regression",
+    "difficulty": 4,
+    "correct": true
+  },
+  {
+    "learner": "learner-23",
+    "topic": "regression",
+    "difficulty": 4,
+    "correct": true
+  },
+  {
+    "learner": "learner-23",
+    "topic": "regression",
+    "difficulty": 4,
+    "correct": true
+  },
+  {
+    "learner": "learner-23",
+    "topic": "regression",
+    "difficulty": 4,
+    "correct": false
+  },
+  {
+    "learner": "learner-23",
+    "topic": "classification",
+    "difficulty": 4,
+    "correct": true
+  },
+  {
+    "learner": "learner-23",
+    "topic": "classification",
+    "difficulty": 4,
+    "correct": true
+  },
+  {
+    "learner": "learner-24",
+    "topic": "arrays",
+    "difficulty": 2,
+    "correct": true
+  },
+  {
+    "learner": "learner-24",
+    "topic": "arrays",
+    "difficulty": 2,
+    "correct": true
+  },
+  {
+    "learner": "learner-24",
+    "topic": "arrays",
+    "difficulty": 2,
+    "correct": true
+  },
+  {
+    "learner": "learner-24",
+    "topic": "arrays",
+    "difficulty": 2,
+    "correct": true
+  },
+  {
+    "learner": "learner-24",
+    "topic": "arrays",
+    "difficulty": 2,
+    "correct": true
+  },
+  {
+    "learner": "learner-24",
+    "topic": "aggregation",
+    "difficulty": 3,
+    "correct": true
+  },
+  {
+    "learner": "learner-24",
+    "topic": "aggregation",
+    "difficulty": 3,
+    "correct": true
+  },
+  {
+    "learner": "learner-24",
+    "topic": "aggregation",
+    "difficulty": 3,
+    "correct": false
+  },
+  {
+    "learner": "learner-24",
+    "topic": "aggregation",
+    "difficulty": 3,
+    "correct": true
+  },
+  {
+    "learner": "learner-24",
+    "topic": "react-basics",
+    "difficulty": 2,
+    "correct": false
+  },
+  {
+    "learner": "learner-24",
+    "topic": "react-basics",
+    "difficulty": 2,
+    "correct": true
+  },
+  {
+    "learner": "learner-24",
+    "topic": "react-basics",
+    "difficulty": 2,
+    "correct": true
+  },
+  {
+    "learner": "learner-24",
+    "topic": "react-basics",
+    "difficulty": 2,
+    "correct": true
+  },
+  {
+    "learner": "learner-24",
+    "topic": "react-basics",
+    "difficulty": 2,
+    "correct": true
+  },
+  {
+    "learner": "learner-24",
+    "topic": "react-state",
+    "difficulty": 3,
+    "correct": true
+  },
+  {
+    "learner": "learner-24",
+    "topic": "react-state",
+    "difficulty": 3,
+    "correct": true
+  },
+  {
+    "learner": "learner-24",
+    "topic": "react-state",
+    "difficulty": 3,
+    "correct": true
+  },
+  {
+    "learner": "learner-24",
+    "topic": "apis",
+    "difficulty": 4,
+    "correct": true
+  },
+  {
+    "learner": "learner-24",
+    "topic": "apis",
+    "difficulty": 4,
+    "correct": true
+  },
+  {
+    "learner": "learner-24",
+    "topic": "regression",
+    "difficulty": 4,
+    "correct": false
+  },
+  {
+    "learner": "learner-24",
+    "topic": "regression",
+    "difficulty": 4,
+    "correct": true
+  },
+  {
+    "learner": "learner-24",
+    "topic": "regression",
+    "difficulty": 4,
+    "correct": true
+  },
+  {
+    "learner": "learner-24",
+    "topic": "regression",
+    "difficulty": 4,
+    "correct": true
+  },
+  {
+    "learner": "learner-24",
+    "topic": "regression",
+    "difficulty": 4,
+    "correct": true
+  },
+  {
+    "learner": "learner-25",
+    "topic": "sorting",
+    "difficulty": 3,
+    "correct": true
+  },
+  {
+    "learner": "learner-25",
+    "topic": "sorting",
+    "difficulty": 3,
+    "correct": false
+  },
+  {
+    "learner": "learner-25",
+    "topic": "sql-basics",
+    "difficulty": 1,
+    "correct": true
+  },
+  {
+    "learner": "learner-25",
+    "topic": "sql-basics",
+    "difficulty": 1,
+    "correct": true
+  },
+  {
+    "learner": "learner-25",
+    "topic": "sql-basics",
+    "difficulty": 1,
+    "correct": false
+  },
+  {
+    "learner": "learner-25",
+    "topic": "sql-basics",
+    "difficulty": 1,
+    "correct": true
+  },
+  {
+    "learner": "learner-25",
+    "topic": "joins",
+    "difficulty": 3,
+    "correct": false
+  },
+  {
+    "learner": "learner-25",
+    "topic": "joins",
+    "difficulty": 3,
+    "correct": false
+  },
+  {
+    "learner": "learner-25",
+    "topic": "joins",
+    "difficulty": 3,
+    "correct": true
+  },
+  {
+    "learner": "learner-25",
+    "topic": "aggregation",
+    "difficulty": 3,
+    "correct": true
+  },
+  {
+    "learner": "learner-25",
+    "topic": "aggregation",
+    "difficulty": 3,
+    "correct": true
+  },
+  {
+    "learner": "learner-25",
+    "topic": "aggregation",
+    "difficulty": 3,
+    "correct": true
+  },
+  {
+    "learner": "learner-25",
+    "topic": "html-css",
+    "difficulty": 1,
+    "correct": true
+  },
+  {
+    "learner": "learner-25",
+    "topic": "html-css",
+    "difficulty": 1,
+    "correct": true
+  },
+  {
+    "learner": "learner-25",
+    "topic": "html-css",
+    "difficulty": 1,
+    "correct": true
+  },
+  {
+    "learner": "learner-25",
+    "topic": "react-basics",
+    "difficulty": 2,
+    "correct": true
+  },
+  {
+    "learner": "learner-25",
+    "topic": "react-basics",
+    "difficulty": 2,
+    "correct": true
+  },
+  {
+    "learner": "learner-25",
+    "topic": "react-basics",
+    "difficulty": 2,
+    "correct": true
+  },
+  {
+    "learner": "learner-25",
+    "topic": "react-basics",
+    "difficulty": 2,
+    "correct": true
+  },
+  {
+    "learner": "learner-25",
+    "topic": "react-basics",
+    "difficulty": 2,
+    "correct": true
+  },
+  {
+    "learner": "learner-25",
+    "topic": "apis",
+    "difficulty": 4,
+    "correct": true
+  },
+  {
+    "learner": "learner-25",
+    "topic": "apis",
+    "difficulty": 4,
+    "correct": true
+  },
+  {
+    "learner": "learner-25",
+    "topic": "apis",
+    "difficulty": 4,
+    "correct": false
+  },
+  {
+    "learner": "learner-25",
+    "topic": "apis",
+    "difficulty": 4,
+    "correct": false
+  },
+  {
+    "learner": "learner-25",
+    "topic": "regression",
+    "difficulty": 4,
+    "correct": true
+  },
+  {
+    "learner": "learner-25",
+    "topic": "regression",
+    "difficulty": 4,
+    "correct": true
+  },
+  {
+    "learner": "learner-25",
+    "topic": "regression",
+    "difficulty": 4,
+    "correct": true
+  },
+  {
+    "learner": "learner-25",
+    "topic": "regression",
+    "difficulty": 4,
+    "correct": false
+  },
+  {
+    "learner": "learner-25",
+    "topic": "classification",
+    "difficulty": 4,
+    "correct": false
+  },
+  {
+    "learner": "learner-25",
+    "topic": "classification",
+    "difficulty": 4,
+    "correct": false
+  },
+  {
+    "learner": "learner-25",
+    "topic": "classification",
+    "difficulty": 4,
+    "correct": false
+  },
+  {
+    "learner": "learner-26",
+    "topic": "python-basics",
+    "difficulty": 1,
+    "correct": true
+  },
+  {
+    "learner": "learner-26",
+    "topic": "python-basics",
+    "difficulty": 1,
+    "correct": true
+  },
+  {
+    "learner": "learner-26",
+    "topic": "python-basics",
+    "difficulty": 1,
+    "correct": true
+  },
+  {
+    "learner": "learner-26",
+    "topic": "python-basics",
+    "difficulty": 1,
+    "correct": true
+  },
+  {
+    "learner": "learner-26",
+    "topic": "python-basics",
+    "difficulty": 1,
+    "correct": true
+  },
+  {
+    "learner": "learner-26",
+    "topic": "functions",
+    "difficulty": 3,
+    "correct": true
+  },
+  {
+    "learner": "learner-26",
+    "topic": "functions",
+    "difficulty": 3,
+    "correct": true
+  },
+  {
+    "learner": "learner-26",
+    "topic": "functions",
+    "difficulty": 3,
+    "correct": true
+  },
+  {
+    "learner": "learner-26",
+    "topic": "functions",
+    "difficulty": 3,
+    "correct": false
+  },
+  {
+    "learner": "learner-26",
+    "topic": "recursion",
+    "difficulty": 4,
+    "correct": true
+  },
+  {
+    "learner": "learner-26",
+    "topic": "recursion",
+    "difficulty": 4,
+    "correct": false
+  },
+  {
+    "learner": "learner-26",
+    "topic": "recursion",
+    "difficulty": 4,
+    "correct": true
+  },
+  {
+    "learner": "learner-26",
+    "topic": "recursion",
+    "difficulty": 4,
+    "correct": true
+  },
+  {
+    "learner": "learner-26",
+    "topic": "sorting",
+    "difficulty": 3,
+    "correct": true
+  },
+  {
+    "learner": "learner-26",
+    "topic": "sorting",
+    "difficulty": 3,
+    "correct": true
+  },
+  {
+    "learner": "learner-26",
+    "topic": "sorting",
+    "difficulty": 3,
+    "correct": true
+  },
+  {
+    "learner": "learner-26",
+    "topic": "joins",
+    "difficulty": 3,
+    "correct": true
+  },
+  {
+    "learner": "learner-26",
+    "topic": "joins",
+    "difficulty": 3,
+    "correct": true
+  },
+  {
+    "learner": "learner-26",
+    "topic": "joins",
+    "difficulty": 3,
+    "correct": true
+  },
+  {
+    "learner": "learner-26",
+    "topic": "joins",
+    "difficulty": 3,
+    "correct": true
+  },
+  {
+    "learner": "learner-26",
+    "topic": "joins",
+    "difficulty": 3,
+    "correct": true
+  },
+  {
+    "learner": "learner-26",
+    "topic": "aggregation",
+    "difficulty": 3,
+    "correct": true
+  },
+  {
+    "learner": "learner-26",
+    "topic": "aggregation",
+    "difficulty": 3,
+    "correct": true
+  },
+  {
+    "learner": "learner-26",
+    "topic": "aggregation",
+    "difficulty": 3,
+    "correct": true
+  },
+  {
+    "learner": "learner-26",
+    "topic": "aggregation",
+    "difficulty": 3,
+    "correct": true
+  },
+  {
+    "learner": "learner-26",
+    "topic": "aggregation",
+    "difficulty": 3,
+    "correct": true
+  },
+  {
+    "learner": "learner-26",
+    "topic": "html-css",
+    "difficulty": 1,
+    "correct": false
+  },
+  {
+    "learner": "learner-26",
+    "topic": "html-css",
+    "difficulty": 1,
+    "correct": true
+  },
+  {
+    "learner": "learner-26",
+    "topic": "html-css",
+    "difficulty": 1,
+    "correct": true
+  },
+  {
+    "learner": "learner-26",
+    "topic": "html-css",
+    "difficulty": 1,
+    "correct": true
+  },
+  {
+    "learner": "learner-26",
+    "topic": "html-css",
+    "difficulty": 1,
+    "correct": true
+  },
+  {
+    "learner": "learner-26",
+    "topic": "apis",
+    "difficulty": 4,
+    "correct": true
+  },
+  {
+    "learner": "learner-26",
+    "topic": "apis",
+    "difficulty": 4,
+    "correct": true
+  },
+  {
+    "learner": "learner-26",
+    "topic": "regression",
+    "difficulty": 4,
+    "correct": true
+  },
+  {
+    "learner": "learner-26",
+    "topic": "regression",
+    "difficulty": 4,
+    "correct": true
+  },
+  {
+    "learner": "learner-26",
+    "topic": "regression",
+    "difficulty": 4,
+    "correct": true
+  },
+  {
+    "learner": "learner-26",
+    "topic": "classification",
+    "difficulty": 4,
+    "correct": true
+  },
+  {
+    "learner": "learner-26",
+    "topic": "classification",
+    "difficulty": 4,
+    "correct": true
+  },
+  {
+    "learner": "learner-26",
+    "topic": "classification",
+    "difficulty": 4,
+    "correct": false
+  },
+  {
+    "learner": "learner-26",
+    "topic": "classification",
+    "difficulty": 4,
+    "correct": false
+  },
+  {
+    "learner": "learner-26",
+    "topic": "classification",
+    "difficulty": 4,
+    "correct": false
+  },
+  {
+    "learner": "learner-27",
+    "topic": "python-basics",
+    "difficulty": 1,
+    "correct": true
+  },
+  {
+    "learner": "learner-27",
+    "topic": "python-basics",
+    "difficulty": 1,
+    "correct": true
+  },
+  {
+    "learner": "learner-27",
+    "topic": "python-basics",
+    "difficulty": 1,
+    "correct": true
+  },
+  {
+    "learner": "learner-27",
+    "topic": "python-basics",
+    "difficulty": 1,
+    "correct": true
+  },
+  {
+    "learner": "learner-27",
+    "topic": "python-basics",
+    "difficulty": 1,
+    "correct": true
+  },
+  {
+    "learner": "learner-27",
+    "topic": "control-flow",
+    "difficulty": 2,
+    "correct": true
+  },
+  {
+    "learner": "learner-27",
+    "topic": "control-flow",
+    "difficulty": 2,
+    "correct": true
+  },
+  {
+    "learner": "learner-27",
+    "topic": "control-flow",
+    "difficulty": 2,
+    "correct": false
+  },
+  {
+    "learner": "learner-27",
+    "topic": "control-flow",
+    "difficulty": 2,
+    "correct": true
+  },
+  {
+    "learner": "learner-27",
+    "topic": "control-flow",
+    "difficulty": 2,
+    "correct": true
+  },
+  {
+    "learner": "learner-27",
+    "topic": "functions",
+    "difficulty": 3,
+    "correct": true
+  },
+  {
+    "learner": "learner-27",
+    "topic": "functions",
+    "difficulty": 3,
+    "correct": false
+  },
+  {
+    "learner": "learner-27",
+    "topic": "functions",
+    "difficulty": 3,
+    "correct": true
+  },
+  {
+    "learner": "learner-27",
+    "topic": "functions",
+    "difficulty": 3,
+    "correct": true
+  },
+  {
+    "learner": "learner-27",
+    "topic": "recursion",
+    "difficulty": 4,
+    "correct": true
+  },
+  {
+    "learner": "learner-27",
+    "topic": "recursion",
+    "difficulty": 4,
+    "correct": true
+  },
+  {
+    "learner": "learner-27",
+    "topic": "recursion",
+    "difficulty": 4,
+    "correct": true
+  },
+  {
+    "learner": "learner-27",
+    "topic": "sorting",
+    "difficulty": 3,
+    "correct": true
+  },
+  {
+    "learner": "learner-27",
+    "topic": "sorting",
+    "difficulty": 3,
+    "correct": false
+  },
+  {
+    "learner": "learner-27",
+    "topic": "sorting",
+    "difficulty": 3,
+    "correct": true
+  },
+  {
+    "learner": "learner-27",
+    "topic": "sorting",
+    "difficulty": 3,
+    "correct": true
+  },
+  {
+    "learner": "learner-27",
+    "topic": "sorting",
+    "difficulty": 3,
+    "correct": true
+  },
+  {
+    "learner": "learner-27",
+    "topic": "joins",
+    "difficulty": 3,
+    "correct": true
+  },
+  {
+    "learner": "learner-27",
+    "topic": "joins",
+    "difficulty": 3,
+    "correct": true
+  },
+  {
+    "learner": "learner-27",
+    "topic": "joins",
+    "difficulty": 3,
+    "correct": true
+  },
+  {
+    "learner": "learner-27",
+    "topic": "joins",
+    "difficulty": 3,
+    "correct": false
+  },
+  {
+    "learner": "learner-27",
+    "topic": "joins",
+    "difficulty": 3,
+    "correct": false
+  },
+  {
+    "learner": "learner-27",
+    "topic": "html-css",
+    "difficulty": 1,
+    "correct": true
+  },
+  {
+    "learner": "learner-27",
+    "topic": "html-css",
+    "difficulty": 1,
+    "correct": true
+  },
+  {
+    "learner": "learner-27",
+    "topic": "html-css",
+    "difficulty": 1,
+    "correct": true
+  },
+  {
+    "learner": "learner-27",
+    "topic": "html-css",
+    "difficulty": 1,
+    "correct": true
+  },
+  {
+    "learner": "learner-27",
+    "topic": "react-basics",
+    "difficulty": 2,
+    "correct": true
+  },
+  {
+    "learner": "learner-27",
+    "topic": "react-basics",
+    "difficulty": 2,
+    "correct": true
+  },
+  {
+    "learner": "learner-27",
+    "topic": "react-basics",
+    "difficulty": 2,
+    "correct": false
+  },
+  {
+    "learner": "learner-27",
+    "topic": "react-basics",
+    "difficulty": 2,
+    "correct": true
+  },
+  {
+    "learner": "learner-27",
+    "topic": "react-state",
+    "difficulty": 3,
+    "correct": true
+  },
+  {
+    "learner": "learner-27",
+    "topic": "react-state",
+    "difficulty": 3,
+    "correct": true
+  },
+  {
+    "learner": "learner-27",
+    "topic": "react-state",
+    "difficulty": 3,
+    "correct": true
+  },
+  {
+    "learner": "learner-27",
+    "topic": "ml-basics",
+    "difficulty": 2,
+    "correct": false
+  },
+  {
+    "learner": "learner-27",
+    "topic": "ml-basics",
+    "difficulty": 2,
+    "correct": true
+  },
+  {
+    "learner": "learner-27",
+    "topic": "ml-basics",
+    "difficulty": 2,
+    "correct": true
+  },
+  {
+    "learner": "learner-28",
+    "topic": "control-flow",
+    "difficulty": 2,
+    "correct": true
+  },
+  {
+    "learner": "learner-28",
+    "topic": "control-flow",
+    "difficulty": 2,
+    "correct": true
+  },
+  {
+    "learner": "learner-28",
+    "topic": "functions",
+    "difficulty": 3,
+    "correct": true
+  },
+  {
+    "learner": "learner-28",
+    "topic": "functions",
+    "difficulty": 3,
+    "correct": true
+  },
+  {
+    "learner": "learner-28",
+    "topic": "functions",
+    "difficulty": 3,
+    "correct": true
+  },
+  {
+    "learner": "learner-28",
+    "topic": "arrays",
+    "difficulty": 2,
+    "correct": true
+  },
+  {
+    "learner": "learner-28",
+    "topic": "arrays",
+    "difficulty": 2,
+    "correct": true
+  },
+  {
+    "learner": "learner-28",
+    "topic": "sql-basics",
+    "difficulty": 1,
+    "correct": true
+  },
+  {
+    "learner": "learner-28",
+    "topic": "sql-basics",
+    "difficulty": 1,
+    "correct": true
+  },
+  {
+    "learner": "learner-28",
+    "topic": "sql-basics",
+    "difficulty": 1,
+    "correct": true
+  },
+  {
+    "learner": "learner-28",
+    "topic": "html-css",
+    "difficulty": 1,
+    "correct": true
+  },
+  {
+    "learner": "learner-28",
+    "topic": "html-css",
+    "difficulty": 1,
+    "correct": true
+  },
+  {
+    "learner": "learner-28",
+    "topic": "apis",
+    "difficulty": 4,
+    "correct": true
+  },
+  {
+    "learner": "learner-28",
+    "topic": "apis",
+    "difficulty": 4,
+    "correct": true
+  },
+  {
+    "learner": "learner-28",
+    "topic": "ml-basics",
+    "difficulty": 2,
+    "correct": true
+  },
+  {
+    "learner": "learner-28",
+    "topic": "ml-basics",
+    "difficulty": 2,
+    "correct": true
+  },
+  {
+    "learner": "learner-28",
+    "topic": "ml-basics",
+    "difficulty": 2,
+    "correct": true
+  },
+  {
+    "learner": "learner-28",
+    "topic": "ml-basics",
+    "difficulty": 2,
+    "correct": true
+  },
+  {
+    "learner": "learner-28",
+    "topic": "ml-basics",
+    "difficulty": 2,
+    "correct": true
+  },
+  {
+    "learner": "learner-28",
+    "topic": "classification",
+    "difficulty": 4,
+    "correct": true
+  },
+  {
+    "learner": "learner-28",
+    "topic": "classification",
+    "difficulty": 4,
+    "correct": true
+  },
+  {
+    "learner": "learner-29",
+    "topic": "python-basics",
+    "difficulty": 1,
+    "correct": true
+  },
+  {
+    "learner": "learner-29",
+    "topic": "python-basics",
+    "difficulty": 1,
+    "correct": true
+  },
+  {
+    "learner": "learner-29",
+    "topic": "functions",
+    "difficulty": 3,
+    "correct": true
+  },
+  {
+    "learner": "learner-29",
+    "topic": "functions",
+    "difficulty": 3,
+    "correct": true
+  },
+  {
+    "learner": "learner-29",
+    "topic": "functions",
+    "difficulty": 3,
+    "correct": true
+  },
+  {
+    "learner": "learner-29",
+    "topic": "functions",
+    "difficulty": 3,
+    "correct": true
+  },
+  {
+    "learner": "learner-29",
+    "topic": "functions",
+    "difficulty": 3,
+    "correct": true
+  },
+  {
+    "learner": "learner-29",
+    "topic": "arrays",
+    "difficulty": 2,
+    "correct": true
+  },
+  {
+    "learner": "learner-29",
+    "topic": "arrays",
+    "difficulty": 2,
+    "correct": true
+  },
+  {
+    "learner": "learner-29",
+    "topic": "recursion",
+    "difficulty": 4,
+    "correct": true
+  },
+  {
+    "learner": "learner-29",
+    "topic": "recursion",
+    "difficulty": 4,
+    "correct": false
+  },
+  {
+    "learner": "learner-29",
+    "topic": "recursion",
+    "difficulty": 4,
+    "correct": true
+  },
+  {
+    "learner": "learner-29",
+    "topic": "recursion",
+    "difficulty": 4,
+    "correct": true
+  },
+  {
+    "learner": "learner-29",
+    "topic": "recursion",
+    "difficulty": 4,
+    "correct": true
+  },
+  {
+    "learner": "learner-29",
+    "topic": "sorting",
+    "difficulty": 3,
+    "correct": true
+  },
+  {
+    "learner": "learner-29",
+    "topic": "sorting",
+    "difficulty": 3,
+    "correct": true
+  },
+  {
+    "learner": "learner-29",
+    "topic": "sorting",
+    "difficulty": 3,
+    "correct": true
+  },
+  {
+    "learner": "learner-29",
+    "topic": "sorting",
+    "difficulty": 3,
+    "correct": true
+  },
+  {
+    "learner": "learner-29",
+    "topic": "html-css",
+    "difficulty": 1,
+    "correct": true
+  },
+  {
+    "learner": "learner-29",
+    "topic": "html-css",
+    "difficulty": 1,
+    "correct": true
+  },
+  {
+    "learner": "learner-29",
+    "topic": "html-css",
+    "difficulty": 1,
+    "correct": true
+  },
+  {
+    "learner": "learner-29",
+    "topic": "ml-basics",
+    "difficulty": 2,
+    "correct": true
+  },
+  {
+    "learner": "learner-29",
+    "topic": "ml-basics",
+    "difficulty": 2,
+    "correct": true
+  },
+  {
+    "learner": "learner-29",
+    "topic": "regression",
+    "difficulty": 4,
+    "correct": true
+  },
+  {
+    "learner": "learner-29",
+    "topic": "regression",
+    "difficulty": 4,
+    "correct": true
+  },
+  {
+    "learner": "learner-29",
+    "topic": "classification",
+    "difficulty": 4,
+    "correct": true
+  },
+  {
+    "learner": "learner-29",
+    "topic": "classification",
+    "difficulty": 4,
+    "correct": true
+  },
+  {
+    "learner": "learner-30",
+    "topic": "control-flow",
+    "difficulty": 2,
+    "correct": true
+  },
+  {
+    "learner": "learner-30",
+    "topic": "control-flow",
+    "difficulty": 2,
+    "correct": true
+  },
+  {
+    "learner": "learner-30",
+    "topic": "control-flow",
+    "difficulty": 2,
+    "correct": true
+  },
+  {
+    "learner": "learner-30",
+    "topic": "functions",
+    "difficulty": 3,
+    "correct": true
+  },
+  {
+    "learner": "learner-30",
+    "topic": "functions",
+    "difficulty": 3,
+    "correct": true
+  },
+  {
+    "learner": "learner-30",
+    "topic": "functions",
+    "difficulty": 3,
+    "correct": true
+  },
+  {
+    "learner": "learner-30",
+    "topic": "functions",
+    "difficulty": 3,
+    "correct": true
+  },
+  {
+    "learner": "learner-30",
+    "topic": "sql-basics",
+    "difficulty": 1,
+    "correct": true
+  },
+  {
+    "learner": "learner-30",
+    "topic": "sql-basics",
+    "difficulty": 1,
+    "correct": true
+  },
+  {
+    "learner": "learner-30",
+    "topic": "joins",
+    "difficulty": 3,
+    "correct": false
+  },
+  {
+    "learner": "learner-30",
+    "topic": "joins",
+    "difficulty": 3,
+    "correct": true
+  },
+  {
+    "learner": "learner-30",
+    "topic": "aggregation",
+    "difficulty": 3,
+    "correct": false
+  },
+  {
+    "learner": "learner-30",
+    "topic": "aggregation",
+    "difficulty": 3,
+    "correct": false
+  },
+  {
+    "learner": "learner-30",
+    "topic": "aggregation",
+    "difficulty": 3,
+    "correct": false
+  },
+  {
+    "learner": "learner-30",
+    "topic": "aggregation",
+    "difficulty": 3,
+    "correct": false
+  },
+  {
+    "learner": "learner-30",
+    "topic": "react-state",
+    "difficulty": 3,
+    "correct": true
+  },
+  {
+    "learner": "learner-30",
+    "topic": "react-state",
+    "difficulty": 3,
+    "correct": true
+  },
+  {
+    "learner": "learner-30",
+    "topic": "react-state",
+    "difficulty": 3,
+    "correct": false
+  },
+  {
+    "learner": "learner-30",
+    "topic": "react-state",
+    "difficulty": 3,
+    "correct": true
+  },
+  {
+    "learner": "learner-30",
+    "topic": "react-state",
+    "difficulty": 3,
+    "correct": true
+  },
+  {
+    "learner": "learner-30",
+    "topic": "apis",
+    "difficulty": 4,
+    "correct": true
+  },
+  {
+    "learner": "learner-30",
+    "topic": "apis",
+    "difficulty": 4,
+    "correct": true
+  },
+  {
+    "learner": "learner-30",
+    "topic": "apis",
+    "difficulty": 4,
+    "correct": false
+  },
+  {
+    "learner": "learner-30",
+    "topic": "apis",
+    "difficulty": 4,
+    "correct": true
+  },
+  {
+    "learner": "learner-30",
+    "topic": "apis",
+    "difficulty": 4,
+    "correct": true
+  },
+  {
+    "learner": "learner-30",
+    "topic": "regression",
+    "difficulty": 4,
+    "correct": false
+  },
+  {
+    "learner": "learner-30",
+    "topic": "regression",
+    "difficulty": 4,
+    "correct": false
+  },
+  {
+    "learner": "learner-30",
+    "topic": "regression",
+    "difficulty": 4,
+    "correct": true
+  },
+  {
+    "learner": "learner-30",
+    "topic": "regression",
+    "difficulty": 4,
+    "correct": true
+  },
+  {
+    "learner": "learner-30",
+    "topic": "regression",
+    "difficulty": 4,
+    "correct": true
+  },
+  {
+    "learner": "learner-31",
+    "topic": "arrays",
+    "difficulty": 2,
+    "correct": true
+  },
+  {
+    "learner": "learner-31",
+    "topic": "arrays",
+    "difficulty": 2,
+    "correct": true
+  },
+  {
+    "learner": "learner-31",
+    "topic": "arrays",
+    "difficulty": 2,
+    "correct": true
+  },
+  {
+    "learner": "learner-31",
+    "topic": "arrays",
+    "difficulty": 2,
+    "correct": true
+  },
+  {
+    "learner": "learner-31",
+    "topic": "arrays",
+    "difficulty": 2,
+    "correct": true
+  },
+  {
+    "learner": "learner-31",
+    "topic": "sql-basics",
+    "difficulty": 1,
+    "correct": true
+  },
+  {
+    "learner": "learner-31",
+    "topic": "sql-basics",
+    "difficulty": 1,
+    "correct": true
+  },
+  {
+    "learner": "learner-31",
+    "topic": "sql-basics",
+    "difficulty": 1,
+    "correct": true
+  },
+  {
+    "learner": "learner-31",
+    "topic": "sql-basics",
+    "difficulty": 1,
+    "correct": true
+  },
+  {
+    "learner": "learner-31",
+    "topic": "joins",
+    "difficulty": 3,
+    "correct": true
+  },
+  {
+    "learner": "learner-31",
+    "topic": "joins",
+    "difficulty": 3,
+    "correct": false
+  },
+  {
+    "learner": "learner-31",
+    "topic": "joins",
+    "difficulty": 3,
+    "correct": true
+  },
+  {
+    "learner": "learner-31",
+    "topic": "joins",
+    "difficulty": 3,
+    "correct": true
+  },
+  {
+    "learner": "learner-31",
+    "topic": "aggregation",
+    "difficulty": 3,
+    "correct": true
+  },
+  {
+    "learner": "learner-31",
+    "topic": "aggregation",
+    "difficulty": 3,
+    "correct": true
+  },
+  {
+    "learner": "learner-31",
+    "topic": "aggregation",
+    "difficulty": 3,
+    "correct": true
+  },
+  {
+    "learner": "learner-31",
+    "topic": "html-css",
+    "difficulty": 1,
+    "correct": false
+  },
+  {
+    "learner": "learner-31",
+    "topic": "html-css",
+    "difficulty": 1,
+    "correct": true
+  },
+  {
+    "learner": "learner-31",
+    "topic": "html-css",
+    "difficulty": 1,
+    "correct": false
+  },
+  {
+    "learner": "learner-31",
+    "topic": "html-css",
+    "difficulty": 1,
+    "correct": true
+  },
+  {
+    "learner": "learner-31",
+    "topic": "react-state",
+    "difficulty": 3,
+    "correct": true
+  },
+  {
+    "learner": "learner-31",
+    "topic": "react-state",
+    "difficulty": 3,
+    "correct": true
+  },
+  {
+    "learner": "learner-31",
+    "topic": "react-state",
+    "difficulty": 3,
+    "correct": false
+  },
+  {
+    "learner": "learner-31",
+    "topic": "react-state",
+    "difficulty": 3,
+    "correct": true
+  },
+  {
+    "learner": "learner-31",
+    "topic": "apis",
+    "difficulty": 4,
+    "correct": true
+  },
+  {
+    "learner": "learner-31",
+    "topic": "apis",
+    "difficulty": 4,
+    "correct": true
+  },
+  {
+    "learner": "learner-31",
+    "topic": "apis",
+    "difficulty": 4,
+    "correct": false
+  },
+  {
+    "learner": "learner-31",
+    "topic": "apis",
+    "difficulty": 4,
+    "correct": false
+  },
+  {
+    "learner": "learner-31",
+    "topic": "apis",
+    "difficulty": 4,
+    "correct": false
+  },
+  {
+    "learner": "learner-31",
+    "topic": "regression",
+    "difficulty": 4,
+    "correct": true
+  },
+  {
+    "learner": "learner-31",
+    "topic": "regression",
+    "difficulty": 4,
+    "correct": true
+  },
+  {
+    "learner": "learner-31",
+    "topic": "regression",
+    "difficulty": 4,
+    "correct": false
+  },
+  {
+    "learner": "learner-31",
+    "topic": "regression",
+    "difficulty": 4,
+    "correct": true
+  },
+  {
+    "learner": "learner-32",
+    "topic": "python-basics",
+    "difficulty": 1,
+    "correct": true
+  },
+  {
+    "learner": "learner-32",
+    "topic": "python-basics",
+    "difficulty": 1,
+    "correct": true
+  },
+  {
+    "learner": "learner-32",
+    "topic": "python-basics",
+    "difficulty": 1,
+    "correct": true
+  },
+  {
+    "learner": "learner-32",
+    "topic": "python-basics",
+    "difficulty": 1,
+    "correct": true
+  },
+  {
+    "learner": "learner-32",
+    "topic": "python-basics",
+    "difficulty": 1,
+    "correct": true
+  },
+  {
+    "learner": "learner-32",
+    "topic": "control-flow",
+    "difficulty": 2,
+    "correct": true
+  },
+  {
+    "learner": "learner-32",
+    "topic": "control-flow",
+    "difficulty": 2,
+    "correct": true
+  },
+  {
+    "learner": "learner-32",
+    "topic": "control-flow",
+    "difficulty": 2,
+    "correct": true
+  },
+  {
+    "learner": "learner-32",
+    "topic": "control-flow",
+    "difficulty": 2,
+    "correct": true
+  },
+  {
+    "learner": "learner-32",
+    "topic": "control-flow",
+    "difficulty": 2,
+    "correct": true
+  },
+  {
+    "learner": "learner-32",
+    "topic": "arrays",
+    "difficulty": 2,
+    "correct": true
+  },
+  {
+    "learner": "learner-32",
+    "topic": "arrays",
+    "difficulty": 2,
+    "correct": true
+  },
+  {
+    "learner": "learner-32",
+    "topic": "arrays",
+    "difficulty": 2,
+    "correct": true
+  },
+  {
+    "learner": "learner-32",
+    "topic": "arrays",
+    "difficulty": 2,
+    "correct": true
+  },
+  {
+    "learner": "learner-32",
+    "topic": "arrays",
+    "difficulty": 2,
+    "correct": true
+  },
+  {
+    "learner": "learner-32",
+    "topic": "sorting",
+    "difficulty": 3,
+    "correct": true
+  },
+  {
+    "learner": "learner-32",
+    "topic": "sorting",
+    "difficulty": 3,
+    "correct": true
+  },
+  {
+    "learner": "learner-32",
+    "topic": "sorting",
+    "difficulty": 3,
+    "correct": false
+  },
+  {
+    "learner": "learner-32",
+    "topic": "sorting",
+    "difficulty": 3,
+    "correct": true
+  },
+  {
+    "learner": "learner-32",
+    "topic": "sorting",
+    "difficulty": 3,
+    "correct": true
+  },
+  {
+    "learner": "learner-32",
+    "topic": "aggregation",
+    "difficulty": 3,
+    "correct": true
+  },
+  {
+    "learner": "learner-32",
+    "topic": "aggregation",
+    "difficulty": 3,
+    "correct": true
+  },
+  {
+    "learner": "learner-32",
+    "topic": "aggregation",
+    "difficulty": 3,
+    "correct": true
+  },
+  {
+    "learner": "learner-32",
+    "topic": "aggregation",
+    "difficulty": 3,
+    "correct": false
+  },
+  {
+    "learner": "learner-32",
+    "topic": "aggregation",
+    "difficulty": 3,
+    "correct": true
+  },
+  {
+    "learner": "learner-32",
+    "topic": "react-basics",
+    "difficulty": 2,
+    "correct": true
+  },
+  {
+    "learner": "learner-32",
+    "topic": "react-basics",
+    "difficulty": 2,
+    "correct": true
+  },
+  {
+    "learner": "learner-32",
+    "topic": "react-basics",
+    "difficulty": 2,
+    "correct": true
+  },
+  {
+    "learner": "learner-32",
+    "topic": "react-state",
+    "difficulty": 3,
+    "correct": true
+  },
+  {
+    "learner": "learner-32",
+    "topic": "react-state",
+    "difficulty": 3,
+    "correct": true
+  },
+  {
+    "learner": "learner-32",
+    "topic": "classification",
+    "difficulty": 4,
+    "correct": false
+  },
+  {
+    "learner": "learner-32",
+    "topic": "classification",
+    "difficulty": 4,
+    "correct": false
+  },
+  {
+    "learner": "learner-32",
+    "topic": "classification",
+    "difficulty": 4,
+    "correct": true
+  },
+  {
+    "learner": "learner-32",
+    "topic": "classification",
+    "difficulty": 4,
+    "correct": true
+  },
+  {
+    "learner": "learner-32",
+    "topic": "classification",
+    "difficulty": 4,
+    "correct": false
+  },
+  {
+    "learner": "learner-33",
+    "topic": "python-basics",
+    "difficulty": 1,
+    "correct": true
+  },
+  {
+    "learner": "learner-33",
+    "topic": "python-basics",
+    "difficulty": 1,
+    "correct": true
+  },
+  {
+    "learner": "learner-33",
+    "topic": "python-basics",
+    "difficulty": 1,
+    "correct": true
+  },
+  {
+    "learner": "learner-33",
+    "topic": "control-flow",
+    "difficulty": 2,
+    "correct": true
+  },
+  {
+    "learner": "learner-33",
+    "topic": "control-flow",
+    "difficulty": 2,
+    "correct": false
+  },
+  {
+    "learner": "learner-33",
+    "topic": "control-flow",
+    "difficulty": 2,
+    "correct": true
+  },
+  {
+    "learner": "learner-33",
+    "topic": "arrays",
+    "difficulty": 2,
+    "correct": true
+  },
+  {
+    "learner": "learner-33",
+    "topic": "arrays",
+    "difficulty": 2,
+    "correct": true
+  },
+  {
+    "learner": "learner-33",
+    "topic": "arrays",
+    "difficulty": 2,
+    "correct": true
+  },
+  {
+    "learner": "learner-33",
+    "topic": "arrays",
+    "difficulty": 2,
+    "correct": true
+  },
+  {
+    "learner": "learner-33",
+    "topic": "recursion",
+    "difficulty": 4,
+    "correct": true
+  },
+  {
+    "learner": "learner-33",
+    "topic": "recursion",
+    "difficulty": 4,
+    "correct": false
+  },
+  {
+    "learner": "learner-33",
+    "topic": "recursion",
+    "difficulty": 4,
+    "correct": false
+  },
+  {
+    "learner": "learner-33",
+    "topic": "recursion",
+    "difficulty": 4,
+    "correct": false
+  },
+  {
+    "learner": "learner-33",
+    "topic": "recursion",
+    "difficulty": 4,
+    "correct": false
+  },
+  {
+    "learner": "learner-33",
+    "topic": "sorting",
+    "difficulty": 3,
+    "correct": false
+  },
+  {
+    "learner": "learner-33",
+    "topic": "sorting",
+    "difficulty": 3,
+    "correct": true
+  },
+  {
+    "learner": "learner-33",
+    "topic": "sorting",
+    "difficulty": 3,
+    "correct": true
+  },
+  {
+    "learner": "learner-33",
+    "topic": "sorting",
+    "difficulty": 3,
+    "correct": true
+  },
+  {
+    "learner": "learner-33",
+    "topic": "sql-basics",
+    "difficulty": 1,
+    "correct": true
+  },
+  {
+    "learner": "learner-33",
+    "topic": "sql-basics",
+    "difficulty": 1,
+    "correct": false
+  },
+  {
+    "learner": "learner-33",
+    "topic": "sql-basics",
+    "difficulty": 1,
+    "correct": true
+  },
+  {
+    "learner": "learner-33",
+    "topic": "sql-basics",
+    "difficulty": 1,
+    "correct": true
+  },
+  {
+    "learner": "learner-33",
+    "topic": "joins",
+    "difficulty": 3,
+    "correct": true
+  },
+  {
+    "learner": "learner-33",
+    "topic": "joins",
+    "difficulty": 3,
+    "correct": true
+  },
+  {
+    "learner": "learner-33",
+    "topic": "joins",
+    "difficulty": 3,
+    "correct": true
+  },
+  {
+    "learner": "learner-33",
+    "topic": "joins",
+    "difficulty": 3,
+    "correct": true
+  },
+  {
+    "learner": "learner-33",
+    "topic": "joins",
+    "difficulty": 3,
+    "correct": false
+  },
+  {
+    "learner": "learner-33",
+    "topic": "react-state",
+    "difficulty": 3,
+    "correct": true
+  },
+  {
+    "learner": "learner-33",
+    "topic": "react-state",
+    "difficulty": 3,
+    "correct": true
+  },
+  {
+    "learner": "learner-33",
+    "topic": "react-state",
+    "difficulty": 3,
+    "correct": false
+  },
+  {
+    "learner": "learner-33",
+    "topic": "react-state",
+    "difficulty": 3,
+    "correct": false
+  },
+  {
+    "learner": "learner-34",
+    "topic": "python-basics",
+    "difficulty": 1,
+    "correct": true
+  },
+  {
+    "learner": "learner-34",
+    "topic": "python-basics",
+    "difficulty": 1,
+    "correct": true
+  },
+  {
+    "learner": "learner-34",
+    "topic": "python-basics",
+    "difficulty": 1,
+    "correct": true
+  },
+  {
+    "learner": "learner-34",
+    "topic": "control-flow",
+    "difficulty": 2,
+    "correct": true
+  },
+  {
+    "learner": "learner-34",
+    "topic": "control-flow",
+    "difficulty": 2,
+    "correct": true
+  },
+  {
+    "learner": "learner-34",
+    "topic": "control-flow",
+    "difficulty": 2,
+    "correct": true
+  },
+  {
+    "learner": "learner-34",
+    "topic": "control-flow",
+    "difficulty": 2,
+    "correct": true
+  },
+  {
+    "learner": "learner-34",
+    "topic": "functions",
+    "difficulty": 3,
+    "correct": true
+  },
+  {
+    "learner": "learner-34",
+    "topic": "functions",
+    "difficulty": 3,
+    "correct": true
+  },
+  {
+    "learner": "learner-34",
+    "topic": "functions",
+    "difficulty": 3,
+    "correct": true
+  },
+  {
+    "learner": "learner-34",
+    "topic": "functions",
+    "difficulty": 3,
+    "correct": true
+  },
+  {
+    "learner": "learner-34",
+    "topic": "sorting",
+    "difficulty": 3,
+    "correct": true
+  },
+  {
+    "learner": "learner-34",
+    "topic": "sorting",
+    "difficulty": 3,
+    "correct": true
+  },
+  {
+    "learner": "learner-34",
+    "topic": "sorting",
+    "difficulty": 3,
+    "correct": true
+  },
+  {
+    "learner": "learner-34",
+    "topic": "html-css",
+    "difficulty": 1,
+    "correct": true
+  },
+  {
+    "learner": "learner-34",
+    "topic": "html-css",
+    "difficulty": 1,
+    "correct": true
+  },
+  {
+    "learner": "learner-34",
+    "topic": "html-css",
+    "difficulty": 1,
+    "correct": true
+  },
+  {
+    "learner": "learner-34",
+    "topic": "html-css",
+    "difficulty": 1,
+    "correct": false
+  },
+  {
+    "learner": "learner-34",
+    "topic": "html-css",
+    "difficulty": 1,
+    "correct": true
+  },
+  {
+    "learner": "learner-34",
+    "topic": "react-state",
+    "difficulty": 3,
+    "correct": true
+  },
+  {
+    "learner": "learner-34",
+    "topic": "react-state",
+    "difficulty": 3,
+    "correct": false
+  },
+  {
+    "learner": "learner-34",
+    "topic": "ml-basics",
+    "difficulty": 2,
+    "correct": true
+  },
+  {
+    "learner": "learner-34",
+    "topic": "ml-basics",
+    "difficulty": 2,
+    "correct": true
+  },
+  {
+    "learner": "learner-34",
+    "topic": "ml-basics",
+    "difficulty": 2,
+    "correct": true
+  },
+  {
+    "learner": "learner-34",
+    "topic": "regression",
+    "difficulty": 4,
+    "correct": true
+  },
+  {
+    "learner": "learner-34",
+    "topic": "regression",
+    "difficulty": 4,
+    "correct": true
+  },
+  {
+    "learner": "learner-34",
+    "topic": "regression",
+    "difficulty": 4,
+    "correct": false
+  },
+  {
+    "learner": "learner-34",
+    "topic": "regression",
+    "difficulty": 4,
+    "correct": true
+  },
+  {
+    "learner": "learner-34",
+    "topic": "regression",
+    "difficulty": 4,
+    "correct": true
+  },
+  {
+    "learner": "learner-35",
+    "topic": "functions",
+    "difficulty": 3,
+    "correct": true
+  },
+  {
+    "learner": "learner-35",
+    "topic": "functions",
+    "difficulty": 3,
+    "correct": true
+  },
+  {
+    "learner": "learner-35",
+    "topic": "functions",
+    "difficulty": 3,
+    "correct": true
+  },
+  {
+    "learner": "learner-35",
+    "topic": "functions",
+    "difficulty": 3,
+    "correct": true
+  },
+  {
+    "learner": "learner-35",
+    "topic": "arrays",
+    "difficulty": 2,
+    "correct": true
+  },
+  {
+    "learner": "learner-35",
+    "topic": "arrays",
+    "difficulty": 2,
+    "correct": true
+  },
+  {
+    "learner": "learner-35",
+    "topic": "arrays",
+    "difficulty": 2,
+    "correct": true
+  },
+  {
+    "learner": "learner-35",
+    "topic": "recursion",
+    "difficulty": 4,
+    "correct": true
+  },
+  {
+    "learner": "learner-35",
+    "topic": "recursion",
+    "difficulty": 4,
+    "correct": true
+  },
+  {
+    "learner": "learner-35",
+    "topic": "recursion",
+    "difficulty": 4,
+    "correct": true
+  },
+  {
+    "learner": "learner-35",
+    "topic": "recursion",
+    "difficulty": 4,
+    "correct": true
+  },
+  {
+    "learner": "learner-35",
+    "topic": "sql-basics",
+    "difficulty": 1,
+    "correct": true
+  },
+  {
+    "learner": "learner-35",
+    "topic": "sql-basics",
+    "difficulty": 1,
+    "correct": false
+  },
+  {
+    "learner": "learner-35",
+    "topic": "sql-basics",
+    "difficulty": 1,
+    "correct": true
+  },
+  {
+    "learner": "learner-35",
+    "topic": "joins",
+    "difficulty": 3,
+    "correct": true
+  },
+  {
+    "learner": "learner-35",
+    "topic": "joins",
+    "difficulty": 3,
+    "correct": true
+  },
+  {
+    "learner": "learner-35",
+    "topic": "aggregation",
+    "difficulty": 3,
+    "correct": true
+  },
+  {
+    "learner": "learner-35",
+    "topic": "aggregation",
+    "difficulty": 3,
+    "correct": true
+  },
+  {
+    "learner": "learner-35",
+    "topic": "aggregation",
+    "difficulty": 3,
+    "correct": true
+  },
+  {
+    "learner": "learner-35",
+    "topic": "react-basics",
+    "difficulty": 2,
+    "correct": true
+  },
+  {
+    "learner": "learner-35",
+    "topic": "react-basics",
+    "difficulty": 2,
+    "correct": true
+  },
+  {
+    "learner": "learner-35",
+    "topic": "react-basics",
+    "difficulty": 2,
+    "correct": true
+  },
+  {
+    "learner": "learner-35",
+    "topic": "react-state",
+    "difficulty": 3,
+    "correct": true
+  },
+  {
+    "learner": "learner-35",
+    "topic": "react-state",
+    "difficulty": 3,
+    "correct": true
+  },
+  {
+    "learner": "learner-35",
+    "topic": "ml-basics",
+    "difficulty": 2,
+    "correct": true
+  },
+  {
+    "learner": "learner-35",
+    "topic": "ml-basics",
+    "difficulty": 2,
+    "correct": true
+  },
+  {
+    "learner": "learner-35",
+    "topic": "ml-basics",
+    "difficulty": 2,
+    "correct": true
+  },
+  {
+    "learner": "learner-35",
+    "topic": "ml-basics",
+    "difficulty": 2,
+    "correct": true
+  },
+  {
+    "learner": "learner-35",
+    "topic": "regression",
+    "difficulty": 4,
+    "correct": true
+  },
+  {
+    "learner": "learner-35",
+    "topic": "regression",
+    "difficulty": 4,
+    "correct": true
+  },
+  {
+    "learner": "learner-36",
+    "topic": "python-basics",
+    "difficulty": 1,
+    "correct": true
+  },
+  {
+    "learner": "learner-36",
+    "topic": "python-basics",
+    "difficulty": 1,
+    "correct": true
+  },
+  {
+    "learner": "learner-36",
+    "topic": "functions",
+    "difficulty": 3,
+    "correct": true
+  },
+  {
+    "learner": "learner-36",
+    "topic": "functions",
+    "difficulty": 3,
+    "correct": true
+  },
+  {
+    "learner": "learner-36",
+    "topic": "arrays",
+    "difficulty": 2,
+    "correct": true
+  },
+  {
+    "learner": "learner-36",
+    "topic": "arrays",
+    "difficulty": 2,
+    "correct": true
+  },
+  {
+    "learner": "learner-36",
+    "topic": "arrays",
+    "difficulty": 2,
+    "correct": true
+  },
+  {
+    "learner": "learner-36",
+    "topic": "arrays",
+    "difficulty": 2,
+    "correct": true
+  },
+  {
+    "learner": "learner-36",
+    "topic": "sorting",
+    "difficulty": 3,
+    "correct": true
+  },
+  {
+    "learner": "learner-36",
+    "topic": "sorting",
+    "difficulty": 3,
+    "correct": true
+  },
+  {
+    "learner": "learner-36",
+    "topic": "sorting",
+    "difficulty": 3,
+    "correct": true
+  },
+  {
+    "learner": "learner-36",
+    "topic": "sorting",
+    "difficulty": 3,
+    "correct": false
+  },
+  {
+    "learner": "learner-36",
+    "topic": "sorting",
+    "difficulty": 3,
+    "correct": false
+  },
+  {
+    "learner": "learner-36",
+    "topic": "sql-basics",
+    "difficulty": 1,
+    "correct": true
+  },
+  {
+    "learner": "learner-36",
+    "topic": "sql-basics",
+    "difficulty": 1,
+    "correct": true
+  },
+  {
+    "learner": "learner-36",
+    "topic": "sql-basics",
+    "difficulty": 1,
+    "correct": true
+  },
+  {
+    "learner": "learner-36",
+    "topic": "sql-basics",
+    "difficulty": 1,
+    "correct": true
+  },
+  {
+    "learner": "learner-36",
+    "topic": "joins",
+    "difficulty": 3,
+    "correct": true
+  },
+  {
+    "learner": "learner-36",
+    "topic": "joins",
+    "difficulty": 3,
+    "correct": true
+  },
+  {
+    "learner": "learner-36",
+    "topic": "aggregation",
+    "difficulty": 3,
+    "correct": true
+  },
+  {
+    "learner": "learner-36",
+    "topic": "aggregation",
+    "difficulty": 3,
+    "correct": true
+  },
+  {
+    "learner": "learner-36",
+    "topic": "aggregation",
+    "difficulty": 3,
+    "correct": true
+  },
+  {
+    "learner": "learner-36",
+    "topic": "html-css",
+    "difficulty": 1,
+    "correct": true
+  },
+  {
+    "learner": "learner-36",
+    "topic": "html-css",
+    "difficulty": 1,
+    "correct": true
+  },
+  {
+    "learner": "learner-36",
+    "topic": "html-css",
+    "difficulty": 1,
+    "correct": true
+  },
+  {
+    "learner": "learner-36",
+    "topic": "html-css",
+    "difficulty": 1,
+    "correct": true
+  },
+  {
+    "learner": "learner-36",
+    "topic": "react-basics",
+    "difficulty": 2,
+    "correct": true
+  },
+  {
+    "learner": "learner-36",
+    "topic": "react-basics",
+    "difficulty": 2,
+    "correct": true
+  },
+  {
+    "learner": "learner-36",
+    "topic": "react-basics",
+    "difficulty": 2,
+    "correct": true
+  },
+  {
+    "learner": "learner-36",
+    "topic": "react-basics",
+    "difficulty": 2,
+    "correct": true
+  },
+  {
+    "learner": "learner-36",
+    "topic": "ml-basics",
+    "difficulty": 2,
+    "correct": true
+  },
+  {
+    "learner": "learner-36",
+    "topic": "ml-basics",
+    "difficulty": 2,
+    "correct": false
+  },
+  {
+    "learner": "learner-36",
+    "topic": "ml-basics",
+    "difficulty": 2,
+    "correct": true
+  },
+  {
+    "learner": "learner-36",
+    "topic": "classification",
+    "difficulty": 4,
+    "correct": false
+  },
+  {
+    "learner": "learner-36",
+    "topic": "classification",
+    "difficulty": 4,
+    "correct": true
+  },
+  {
+    "learner": "learner-36",
+    "topic": "classification",
+    "difficulty": 4,
+    "correct": true
+  },
+  {
+    "learner": "learner-36",
+    "topic": "classification",
+    "difficulty": 4,
+    "correct": false
+  },
+  {
+    "learner": "learner-36",
+    "topic": "classification",
+    "difficulty": 4,
+    "correct": true
+  },
+  {
+    "learner": "learner-37",
+    "topic": "control-flow",
+    "difficulty": 2,
+    "correct": true
+  },
+  {
+    "learner": "learner-37",
+    "topic": "control-flow",
+    "difficulty": 2,
+    "correct": true
+  },
+  {
+    "learner": "learner-37",
+    "topic": "arrays",
+    "difficulty": 2,
+    "correct": true
+  },
+  {
+    "learner": "learner-37",
+    "topic": "arrays",
+    "difficulty": 2,
+    "correct": true
+  },
+  {
+    "learner": "learner-37",
+    "topic": "arrays",
+    "difficulty": 2,
+    "correct": true
+  },
+  {
+    "learner": "learner-37",
+    "topic": "recursion",
+    "difficulty": 4,
+    "correct": true
+  },
+  {
+    "learner": "learner-37",
+    "topic": "recursion",
+    "difficulty": 4,
+    "correct": true
+  },
+  {
+    "learner": "learner-37",
+    "topic": "recursion",
+    "difficulty": 4,
+    "correct": true
+  },
+  {
+    "learner": "learner-37",
+    "topic": "recursion",
+    "difficulty": 4,
+    "correct": true
+  },
+  {
+    "learner": "learner-37",
+    "topic": "recursion",
+    "difficulty": 4,
+    "correct": true
+  },
+  {
+    "learner": "learner-37",
+    "topic": "sql-basics",
+    "difficulty": 1,
+    "correct": true
+  },
+  {
+    "learner": "learner-37",
+    "topic": "sql-basics",
+    "difficulty": 1,
+    "correct": true
+  },
+  {
+    "learner": "learner-37",
+    "topic": "sql-basics",
+    "difficulty": 1,
+    "correct": true
+  },
+  {
+    "learner": "learner-37",
+    "topic": "sql-basics",
+    "difficulty": 1,
+    "correct": true
+  },
+  {
+    "learner": "learner-37",
+    "topic": "sql-basics",
+    "difficulty": 1,
+    "correct": true
+  },
+  {
+    "learner": "learner-37",
+    "topic": "joins",
+    "difficulty": 3,
+    "correct": true
+  },
+  {
+    "learner": "learner-37",
+    "topic": "joins",
+    "difficulty": 3,
+    "correct": true
+  },
+  {
+    "learner": "learner-37",
+    "topic": "joins",
+    "difficulty": 3,
+    "correct": true
+  },
+  {
+    "learner": "learner-37",
+    "topic": "joins",
+    "difficulty": 3,
+    "correct": true
+  },
+  {
+    "learner": "learner-37",
+    "topic": "joins",
+    "difficulty": 3,
+    "correct": true
+  },
+  {
+    "learner": "learner-37",
+    "topic": "aggregation",
+    "difficulty": 3,
+    "correct": true
+  },
+  {
+    "learner": "learner-37",
+    "topic": "aggregation",
+    "difficulty": 3,
+    "correct": true
+  },
+  {
+    "learner": "learner-37",
+    "topic": "html-css",
+    "difficulty": 1,
+    "correct": true
+  },
+  {
+    "learner": "learner-37",
+    "topic": "html-css",
+    "difficulty": 1,
+    "correct": true
+  },
+  {
+    "learner": "learner-37",
+    "topic": "apis",
+    "difficulty": 4,
+    "correct": false
+  },
+  {
+    "learner": "learner-37",
+    "topic": "apis",
+    "difficulty": 4,
+    "correct": true
+  },
+  {
+    "learner": "learner-37",
+    "topic": "apis",
+    "difficulty": 4,
+    "correct": true
+  },
+  {
+    "learner": "learner-37",
+    "topic": "apis",
+    "difficulty": 4,
+    "correct": true
+  },
+  {
+    "learner": "learner-37",
+    "topic": "apis",
+    "difficulty": 4,
+    "correct": true
+  },
+  {
+    "learner": "learner-37",
+    "topic": "ml-basics",
+    "difficulty": 2,
+    "correct": true
+  },
+  {
+    "learner": "learner-37",
+    "topic": "ml-basics",
+    "difficulty": 2,
+    "correct": true
+  },
+  {
+    "learner": "learner-37",
+    "topic": "ml-basics",
+    "difficulty": 2,
+    "correct": true
+  },
+  {
+    "learner": "learner-37",
+    "topic": "ml-basics",
+    "difficulty": 2,
+    "correct": true
+  },
+  {
+    "learner": "learner-37",
+    "topic": "regression",
+    "difficulty": 4,
+    "correct": true
+  },
+  {
+    "learner": "learner-37",
+    "topic": "regression",
+    "difficulty": 4,
+    "correct": true
+  },
+  {
+    "learner": "learner-37",
+    "topic": "regression",
+    "difficulty": 4,
+    "correct": true
+  },
+  {
+    "learner": "learner-37",
+    "topic": "classification",
+    "difficulty": 4,
+    "correct": true
+  },
+  {
+    "learner": "learner-37",
+    "topic": "classification",
+    "difficulty": 4,
+    "correct": true
+  },
+  {
+    "learner": "learner-37",
+    "topic": "classification",
+    "difficulty": 4,
+    "correct": true
+  },
+  {
+    "learner": "learner-38",
+    "topic": "control-flow",
+    "difficulty": 2,
+    "correct": true
+  },
+  {
+    "learner": "learner-38",
+    "topic": "control-flow",
+    "difficulty": 2,
+    "correct": true
+  },
+  {
+    "learner": "learner-38",
+    "topic": "recursion",
+    "difficulty": 4,
+    "correct": true
+  },
+  {
+    "learner": "learner-38",
+    "topic": "recursion",
+    "difficulty": 4,
+    "correct": true
+  },
+  {
+    "learner": "learner-38",
+    "topic": "sorting",
+    "difficulty": 3,
+    "correct": true
+  },
+  {
+    "learner": "learner-38",
+    "topic": "sorting",
+    "difficulty": 3,
+    "correct": true
+  },
+  {
+    "learner": "learner-38",
+    "topic": "sorting",
+    "difficulty": 3,
+    "correct": true
+  },
+  {
+    "learner": "learner-38",
+    "topic": "sorting",
+    "difficulty": 3,
+    "correct": true
+  },
+  {
+    "learner": "learner-38",
+    "topic": "sql-basics",
+    "difficulty": 1,
+    "correct": true
+  },
+  {
+    "learner": "learner-38",
+    "topic": "sql-basics",
+    "difficulty": 1,
+    "correct": true
+  },
+  {
+    "learner": "learner-38",
+    "topic": "aggregation",
+    "difficulty": 3,
+    "correct": false
+  },
+  {
+    "learner": "learner-38",
+    "topic": "aggregation",
+    "difficulty": 3,
+    "correct": true
+  },
+  {
+    "learner": "learner-38",
+    "topic": "aggregation",
+    "difficulty": 3,
+    "correct": true
+  },
+  {
+    "learner": "learner-38",
+    "topic": "react-basics",
+    "difficulty": 2,
+    "correct": true
+  },
+  {
+    "learner": "learner-38",
+    "topic": "react-basics",
+    "difficulty": 2,
+    "correct": true
+  },
+  {
+    "learner": "learner-38",
+    "topic": "react-basics",
+    "difficulty": 2,
+    "correct": true
+  },
+  {
+    "learner": "learner-38",
+    "topic": "react-basics",
+    "difficulty": 2,
+    "correct": true
+  },
+  {
+    "learner": "learner-38",
+    "topic": "regression",
+    "difficulty": 4,
+    "correct": true
+  },
+  {
+    "learner": "learner-38",
+    "topic": "regression",
+    "difficulty": 4,
+    "correct": true
+  },
+  {
+    "learner": "learner-38",
+    "topic": "regression",
+    "difficulty": 4,
+    "correct": false
+  },
+  {
+    "learner": "learner-38",
+    "topic": "regression",
+    "difficulty": 4,
+    "correct": true
+  },
+  {
+    "learner": "learner-38",
+    "topic": "regression",
+    "difficulty": 4,
+    "correct": true
+  },
+  {
+    "learner": "learner-39",
+    "topic": "python-basics",
+    "difficulty": 1,
+    "correct": true
+  },
+  {
+    "learner": "learner-39",
+    "topic": "python-basics",
+    "difficulty": 1,
+    "correct": true
+  },
+  {
+    "learner": "learner-39",
+    "topic": "python-basics",
+    "difficulty": 1,
+    "correct": true
+  },
+  {
+    "learner": "learner-39",
+    "topic": "python-basics",
+    "difficulty": 1,
+    "correct": true
+  },
+  {
+    "learner": "learner-39",
+    "topic": "python-basics",
+    "difficulty": 1,
+    "correct": true
+  },
+  {
+    "learner": "learner-39",
+    "topic": "control-flow",
+    "difficulty": 2,
+    "correct": true
+  },
+  {
+    "learner": "learner-39",
+    "topic": "control-flow",
+    "difficulty": 2,
+    "correct": true
+  },
+  {
+    "learner": "learner-39",
+    "topic": "control-flow",
+    "difficulty": 2,
+    "correct": true
+  },
+  {
+    "learner": "learner-39",
+    "topic": "control-flow",
+    "difficulty": 2,
+    "correct": true
+  },
+  {
+    "learner": "learner-39",
+    "topic": "control-flow",
+    "difficulty": 2,
+    "correct": true
+  },
+  {
+    "learner": "learner-39",
+    "topic": "recursion",
+    "difficulty": 4,
+    "correct": true
+  },
+  {
+    "learner": "learner-39",
+    "topic": "recursion",
+    "difficulty": 4,
+    "correct": true
+  },
+  {
+    "learner": "learner-39",
+    "topic": "sorting",
+    "difficulty": 3,
+    "correct": true
+  },
+  {
+    "learner": "learner-39",
+    "topic": "sorting",
+    "difficulty": 3,
+    "correct": true
+  },
+  {
+    "learner": "learner-39",
+    "topic": "sql-basics",
+    "difficulty": 1,
+    "correct": true
+  },
+  {
+    "learner": "learner-39",
+    "topic": "sql-basics",
+    "difficulty": 1,
+    "correct": true
+  },
+  {
+    "learner": "learner-39",
+    "topic": "sql-basics",
+    "difficulty": 1,
+    "correct": true
+  },
+  {
+    "learner": "learner-39",
+    "topic": "sql-basics",
+    "difficulty": 1,
+    "correct": true
+  },
+  {
+    "learner": "learner-39",
+    "topic": "sql-basics",
+    "difficulty": 1,
+    "correct": true
+  },
+  {
+    "learner": "learner-39",
+    "topic": "html-css",
+    "difficulty": 1,
+    "correct": true
+  },
+  {
+    "learner": "learner-39",
+    "topic": "html-css",
+    "difficulty": 1,
+    "correct": true
+  },
+  {
+    "learner": "learner-39",
+    "topic": "react-basics",
+    "difficulty": 2,
+    "correct": true
+  },
+  {
+    "learner": "learner-39",
+    "topic": "react-basics",
+    "difficulty": 2,
+    "correct": true
+  },
+  {
+    "learner": "learner-39",
+    "topic": "react-basics",
+    "difficulty": 2,
+    "correct": true
+  },
+  {
+    "learner": "learner-39",
+    "topic": "react-basics",
+    "difficulty": 2,
+    "correct": true
+  },
+  {
+    "learner": "learner-39",
+    "topic": "react-state",
+    "difficulty": 3,
+    "correct": true
+  },
+  {
+    "learner": "learner-39",
+    "topic": "react-state",
+    "difficulty": 3,
+    "correct": true
+  },
+  {
+    "learner": "learner-39",
+    "topic": "react-state",
+    "difficulty": 3,
+    "correct": true
+  },
+  {
+    "learner": "learner-39",
+    "topic": "react-state",
+    "difficulty": 3,
+    "correct": false
+  },
+  {
+    "learner": "learner-39",
+    "topic": "react-state",
+    "difficulty": 3,
+    "correct": true
+  },
+  {
+    "learner": "learner-39",
+    "topic": "apis",
+    "difficulty": 4,
+    "correct": false
+  },
+  {
+    "learner": "learner-39",
+    "topic": "apis",
+    "difficulty": 4,
+    "correct": false
+  },
+  {
+    "learner": "learner-39",
+    "topic": "apis",
+    "difficulty": 4,
+    "correct": true
+  },
+  {
+    "learner": "learner-39",
+    "topic": "apis",
+    "difficulty": 4,
+    "correct": false
+  },
+  {
+    "learner": "learner-39",
+    "topic": "apis",
+    "difficulty": 4,
+    "correct": true
+  },
+  {
+    "learner": "learner-39",
+    "topic": "regression",
+    "difficulty": 4,
+    "correct": true
+  },
+  {
+    "learner": "learner-39",
+    "topic": "regression",
+    "difficulty": 4,
+    "correct": true
+  },
+  {
+    "learner": "learner-39",
+    "topic": "regression",
+    "difficulty": 4,
+    "correct": false
+  },
+  {
+    "learner": "learner-39",
+    "topic": "regression",
+    "difficulty": 4,
+    "correct": true
+  },
+  {
+    "learner": "learner-39",
+    "topic": "regression",
+    "difficulty": 4,
+    "correct": true
+  },
+  {
+    "learner": "learner-39",
+    "topic": "classification",
+    "difficulty": 4,
+    "correct": true
+  },
+  {
+    "learner": "learner-39",
+    "topic": "classification",
+    "difficulty": 4,
+    "correct": true
+  },
+  {
+    "learner": "learner-40",
+    "topic": "recursion",
+    "difficulty": 4,
+    "correct": true
+  },
+  {
+    "learner": "learner-40",
+    "topic": "recursion",
+    "difficulty": 4,
+    "correct": true
+  },
+  {
+    "learner": "learner-40",
+    "topic": "recursion",
+    "difficulty": 4,
+    "correct": true
+  },
+  {
+    "learner": "learner-40",
+    "topic": "recursion",
+    "difficulty": 4,
+    "correct": false
+  },
+  {
+    "learner": "learner-40",
+    "topic": "recursion",
+    "difficulty": 4,
+    "correct": true
+  },
+  {
+    "learner": "learner-40",
+    "topic": "joins",
+    "difficulty": 3,
+    "correct": true
+  },
+  {
+    "learner": "learner-40",
+    "topic": "joins",
+    "difficulty": 3,
+    "correct": true
+  },
+  {
+    "learner": "learner-40",
+    "topic": "html-css",
+    "difficulty": 1,
+    "correct": true
+  },
+  {
+    "learner": "learner-40",
+    "topic": "html-css",
+    "difficulty": 1,
+    "correct": true
+  },
+  {
+    "learner": "learner-40",
+    "topic": "html-css",
+    "difficulty": 1,
+    "correct": true
+  },
+  {
+    "learner": "learner-40",
+    "topic": "html-css",
+    "difficulty": 1,
+    "correct": true
+  },
+  {
+    "learner": "learner-40",
+    "topic": "html-css",
+    "difficulty": 1,
+    "correct": true
+  },
+  {
+    "learner": "learner-40",
+    "topic": "react-basics",
+    "difficulty": 2,
+    "correct": true
+  },
+  {
+    "learner": "learner-40",
+    "topic": "react-basics",
+    "difficulty": 2,
+    "correct": true
+  },
+  {
+    "learner": "learner-40",
+    "topic": "react-basics",
+    "difficulty": 2,
+    "correct": true
+  },
+  {
+    "learner": "learner-40",
+    "topic": "react-basics",
+    "difficulty": 2,
+    "correct": true
+  },
+  {
+    "learner": "learner-40",
+    "topic": "react-state",
+    "difficulty": 3,
+    "correct": false
+  },
+  {
+    "learner": "learner-40",
+    "topic": "react-state",
+    "difficulty": 3,
+    "correct": true
+  },
+  {
+    "learner": "learner-40",
+    "topic": "react-state",
+    "difficulty": 3,
+    "correct": true
+  },
+  {
+    "learner": "learner-40",
+    "topic": "react-state",
+    "difficulty": 3,
+    "correct": true
+  },
+  {
+    "learner": "learner-40",
+    "topic": "apis",
+    "difficulty": 4,
+    "correct": true
+  },
+  {
+    "learner": "learner-40",
+    "topic": "apis",
+    "difficulty": 4,
+    "correct": true
+  },
+  {
+    "learner": "learner-40",
+    "topic": "ml-basics",
+    "difficulty": 2,
+    "correct": true
+  },
+  {
+    "learner": "learner-40",
+    "topic": "ml-basics",
+    "difficulty": 2,
+    "correct": true
+  },
+  {
+    "learner": "learner-40",
+    "topic": "ml-basics",
+    "difficulty": 2,
+    "correct": true
+  },
+  {
+    "learner": "learner-40",
+    "topic": "ml-basics",
+    "difficulty": 2,
+    "correct": true
+  },
+  {
+    "learner": "learner-40",
+    "topic": "ml-basics",
+    "difficulty": 2,
+    "correct": true
+  },
+  {
+    "learner": "learner-40",
+    "topic": "classification",
+    "difficulty": 4,
+    "correct": false
+  },
+  {
+    "learner": "learner-40",
+    "topic": "classification",
+    "difficulty": 4,
+    "correct": false
+  }
+]
